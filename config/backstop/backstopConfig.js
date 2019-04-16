@@ -9,7 +9,7 @@ const urls = {
 const basicScenario = {
   label: 'test', // name of the test
   url: urls.development,
-  referenceUrl: 'https://mate-academy.github.io/layout_solutions/human-rights/',
+  referenceUrl: '',
   readyEvent: '',
   readySelector: '',
   delay: 1000,
