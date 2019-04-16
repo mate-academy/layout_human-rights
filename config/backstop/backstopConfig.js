@@ -9,7 +9,7 @@ const urls = {
 const basicScenario = {
   label: 'test', // name of the test
   url: urls.development,
-  referenceUrl: '',
+  referenceUrl: 'https://mate-academy.github.io/layout_solutions/human-rights/',
   readyEvent: '',
   readySelector: '',
   delay: 1000,
@@ -48,22 +48,22 @@ const config = {
     {
       ...basicScenario,
       label: 'h2-heading',
-      selectors: ['h2:nth-of-type(8n + 1)'] // check few h2
+      selectors: ['h2:nth-of-type(100n + 1)'] // check one h2
     },
     {
       ...basicScenario,
       label: 'paragraphs',
-      selectors: ['p:nth-of-type(5n + 1)'] // check few paragraphs
+      selectors: ['p:nth-of-type(100n + 1)'] // check one paragraph
     },
     {
       ...basicScenario,
       label: 'lists',
-      selectors: ['ol:nth-of-type(5n + 1)'] // check few lists
+      selectors: ['ol:nth-of-type(100n + 1)'] // check one list
     },
     {
       ...basicScenario,
       label: 'link',
-      selectors: ['a:nth-of-type(8n + 1)'] // check few links
+      selectors: ['a:nth-of-type(100n + 1)'] // check one link
     }
     // define here scenarios for testing
   ],
