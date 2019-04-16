@@ -43,27 +43,27 @@ const config = {
     {
       ...basicScenario,
       label: 'h1-heading',
-      selectors: ['h1']
+      selectors: ['h1'] // only one h1 on the page
     },
     {
       ...basicScenario,
       label: 'h2-heading',
-      selectors: ['h2']
+      selectors: ['h2:nth-of-type(8n + 1)'] // check few h2
     },
     {
       ...basicScenario,
       label: 'paragraphs',
-      selectors: ['p']
+      selectors: ['p:nth-of-type(5n + 1)'] // check few paragraphs
     },
     {
       ...basicScenario,
       label: 'lists',
-      selectors: ['ol']
+      selectors: ['ol:nth-of-type(5n + 1)'] // check few lists
     },
     {
       ...basicScenario,
       label: 'link',
-      selectors: ['a']
+      selectors: ['a:nth-of-type(8n + 1)'] // check few links
     }
     // define here scenarios for testing
   ],
