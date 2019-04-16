@@ -9,7 +9,7 @@ const urls = {
 const basicScenario = {
   label: 'test', // name of the test
   url: urls.development,
-  referenceUrl: '', // put here reference to github-pages with ready project
+  referenceUrl: '',
   readyEvent: '',
   readySelector: '',
   delay: 1000,
@@ -35,7 +35,36 @@ const config = {
     }
   ],
   scenarios: [
-    { ...basicScenario }
+    {
+      ...basicScenario,
+      label: 'entire-document',
+      selectors: ['document']
+    },
+    {
+      ...basicScenario,
+      label: 'h1-heading',
+      selectors: ['h1']
+    },
+    {
+      ...basicScenario,
+      label: 'h2-heading',
+      selectors: ['h2']
+    },
+    {
+      ...basicScenario,
+      label: 'paragraphs',
+      selectors: ['p']
+    },
+    {
+      ...basicScenario,
+      label: 'lists',
+      selectors: ['ol']
+    },
+    {
+      ...basicScenario,
+      label: 'link',
+      selectors: ['a']
+    }
     // define here scenarios for testing
   ],
   paths: {
