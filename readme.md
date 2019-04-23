@@ -29,5 +29,5 @@ the document. Style the link to always be `green`.
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[UPDATE DEMO LINK](https://gulldan1996.github.io/layout_human-rights/) <br>
+[UPDATE TEST REPORT LINK](https://gulldan1996.github.io/layout_human-rights/report/html_report/)
