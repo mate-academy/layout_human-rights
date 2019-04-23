@@ -29,5 +29,5 @@ the document. Style the link to always be `green`.
 
 **Result**
 
-[Demo link](https://mate-academy.github.io/layout_task-boilerplate-ci/) <br>
-[Test report](https://mate-academy.github.io/layout_task-boilerplate-ci/report/html_report/)
+[Demo link](https://batsenko.github.io/layout_human-rights/) <br>
+[Test report](https://batsenko.github.io/layout_human-rights/report/html_report/)
