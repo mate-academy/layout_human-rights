@@ -22,8 +22,6 @@ After article 16 don’t display any more articles, but put an `h2` heading read
 "Articles 17 to 30" instead and make it a `link` pointing to the PDF version of 
 the document. Style the link to always be `green`.
 
-You can find some sample screenshots in the [backstop_data/bitmaps_reference](backstop_data/bitmaps_reference) folder.
-
 ---
 **Read the guideline before start**
 
