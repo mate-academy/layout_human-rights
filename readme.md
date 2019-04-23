@@ -29,5 +29,5 @@ the document. Style the link to always be `green`.
 
 **Result**
 
-[Demo link](https://ekaterinakur.github.io/layout_human-rights/) 
+[Demo link](https://ekaterinakur.github.io/layout_human-rights/)
 [Test report](https://ekaterinakur.github.io/layout_human-rights/report/html_report/)
