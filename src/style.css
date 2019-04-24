@@ -1,15 +1,11 @@
-* {
-  margin: 0;
-}
-
 body {
   font-family: Arial;
   font-size: 13px;
-  margin: 8px;
 }
 
 h1 {
   font-size: 17px;
+  margin: 0;
 }
 
 h2 {
@@ -20,4 +16,5 @@ h2 {
 
 a {
   color: green;
+  margin: 0;
 }
