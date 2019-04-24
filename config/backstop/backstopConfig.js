@@ -32,7 +32,7 @@ module.exports = {
     {
       ...basicScenario,
       label: 'entire-document',
-      selectors: ['document']
+      selectors: ['body']
     },
     {
       ...basicScenario,
@@ -71,9 +71,14 @@ module.exports = {
   report: ['browser'],
   engine: 'puppeteer',
   engineOptions: {
-    args: ['--no-sandbox']
+    args: [
+    // Tell Chromium where to get its user data for each start.
+    // We need to explicitly set this so Chromium does not start with a clean
+    // (bookmarkless) profile each run
+      '--user-data-dir=/Users/varr/Library/Application Support/Chromium'
+    ]
   },
-  asyncCaptureLimit: 5,
+  asyncCaptureLimit: 1,
   asyncCompareLimit: 50,
   debug: false,
   debugWindow: false
