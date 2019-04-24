@@ -1,17 +1,12 @@
 body {
   font-size: 13px;
   font-family: Arial;
-  margin: 0;
-}
-
-.wrapper {
-  width: 80%;
-  margin: 0 auto;
 }
 
 h1 {
   font-weight: bold;
   font-size: 17px;
+  margin: 0;
 }
 
 h2 {
@@ -22,5 +17,4 @@ h2 {
 
 h2 a {
   color: green;
-  text-decoration: none;
 }
