@@ -2,11 +2,6 @@ body {
   font: 13px "Arial", sans-serif;
 }
 
-p {
-  margin: 0;
-  font-weight: normal;
-}
-
 h1 {
   font-size: 17px;
   font-weight: bold;
@@ -19,6 +14,11 @@ h2 {
   margin: 1em 0;
 }
 
+p {
+  margin: 0;
+  font-weight: normal;
+}
+
 a {
-  color: #0f0;
+  color: green;
 }
