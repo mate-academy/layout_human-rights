@@ -1,0 +1,21 @@
+body {
+font-size: 13px;
+font-family: Arial; 
+}
+
+.head {
+font-size: 17px;
+font-weight: bold;
+}
+
+h2.preambula-h2 {
+font-size: 15px;
+line-height: 1px;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+a {
+color: green;
+font-size: 15px;
+}
