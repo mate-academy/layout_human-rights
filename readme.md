@@ -1,3 +1,8 @@
+### [Demo link](https://onefun1.github.io/layout_human-rights/)
+
+### [Test report](https://onefun1.github.io/layout_human-rights/report/html_report/)
+
+
 # Human rights
 
 Transform the preamble and the first 16 articles of the following document into 
