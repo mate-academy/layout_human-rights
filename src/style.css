@@ -1,7 +1,7 @@
 .text-container {
-  width: 1024px;
+  width: 1100px;
   margin: 0 auto;
-  font: 13px "Arial", sans-serif;
+  font: 13px/15px "Arial", sans-serif;
 }
 
 h1 {
