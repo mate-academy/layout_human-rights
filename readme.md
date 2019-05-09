@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[DEMO LINK](https://olegtereschuk.github.io/layout_human-rights/) <br>
+[TEST REPORT LINK](https://olegtereschuk.github.io/layout_human-rights/report/html_report/) 
