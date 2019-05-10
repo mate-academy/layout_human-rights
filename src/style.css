@@ -1,0 +1,32 @@
+body {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.main-caption {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.preamble {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.list,
+.description {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
