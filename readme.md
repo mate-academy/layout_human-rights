@@ -225,9 +225,9 @@ If you have trouble copying contents from the document, you can also find the fu
 ---
 **Read the guideline before start**
 
-[Guideline](https://mate-academy.github.io/layout_task-guideline/)
+[Guideline](https://sergijpso.github.io/layout_human-rights/)
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
+[TEST REPORT LINK](https://sergijpso.github.io/layout_human-rights/report/html_report/)
