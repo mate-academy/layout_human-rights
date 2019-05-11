@@ -1,11 +1,6 @@
 body {
   font-family: Arial;
   font-size: 13px;
-  vertical-align: 1em;
-}
-
-p {
-  margin: 0 auto;
 }
 
 .headline {
@@ -15,7 +10,7 @@ p {
 
 .minor-headline {
   font-size: 15px;
-  vertical-align: 1em;
+  line-height: 1em;
   font-weight: 400;
 }
 
