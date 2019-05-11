@@ -16,8 +16,11 @@
 }
 
 .minor-headline-link {
-  color: green;
   font-size: 15px;
   margin: 1em 0;
   font-weight: normal;
+}
+
+.minor-headline-link a {
+  color: green;
 }
