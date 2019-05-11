@@ -1,0 +1,21 @@
+* {
+  font-family: Arial;
+  font-size: 13px;
+  vertical-align: 0;
+}
+
+.headline {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.minor-headline {
+  font-size: 15px;
+  font-weight: normal;
+  vertical-align: 1em;
+}
+
+.minor-headline-link {
+  color: green;
+  text-decoration: none;
+}
