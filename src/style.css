@@ -12,6 +12,7 @@ body {
 .minor-headline {
   font-size: 15px;
   vertical-align: 1em;
+  font-weight: 400;
 }
 
 .minor-headline-link {
