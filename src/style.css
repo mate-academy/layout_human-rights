@@ -10,7 +10,7 @@ body {
 
 .minor-headline {
   font-size: 15px;
-  line-height: 1em;
+  margin: 1em 0;
   font-weight: 400;
 }
 
