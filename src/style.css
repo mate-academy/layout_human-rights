@@ -1,0 +1,27 @@
+* {
+  font-family: Arial;
+}
+
+p,
+li {
+  font-size: 13px;
+}
+
+h2#preamble,
+h2.article {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+a,
+a h2 {
+  color: green;
+  font-weight: normal;
+  font-size: 15px;
+}
