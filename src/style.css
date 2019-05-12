@@ -1,9 +1,5 @@
-* {
+html {
   font-family: Arial;
-}
-
-p,
-li {
   font-size: 13px;
 }
 
@@ -20,7 +16,7 @@ h1 {
 }
 
 a,
-a h2 {
+a[h2] {
   color: green;
   font-weight: normal;
   font-size: 15px;
