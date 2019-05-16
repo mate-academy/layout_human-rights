@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-[UPDATE DEMO LINK]( https://artem-kumskov.github.io/layout_human-rights/) <br>
-[UPDATE TEST REPORT LINK](https://github.com/Artem-Kumskov/layout_human-rights/tree/gh-pages/report/html_report/)
+[DEMO LINK]( https://artem-kumskov.github.io/layout_human-rights/) <br>
+[ TEST REPORT LINK](https://github.com/Artem-Kumskov/layout_human-rights/tree/gh-pages/report/html_report/)
