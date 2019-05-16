@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 [DEMO LINK]( https://artem-kumskov.github.io/layout_human-rights/) <br>
-[ TEST REPORT LINK](https://github.com/Artem-Kumskov/layout_human-rights/tree/gh-pages/report/html_report/)
+[ TEST REPORT LINK](https://artem-kumskov.github.io/layout_human-rights/report/html_report/)
