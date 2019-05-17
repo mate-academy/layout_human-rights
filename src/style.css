@@ -1,0 +1,25 @@
+body {
+  display: block;
+  font-size: 13px;
+  font-family: arial;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.preamble {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+a {
+  color: green;
+}
