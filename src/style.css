@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: green;
+}
+
+#preamble {
+  margin: 1em 0;
+}
