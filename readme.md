@@ -227,7 +227,8 @@ If you have trouble copying contents from the document, you can also find the fu
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
 
+
 **Result**
 
-[DEMO LINK](https//ivanvfedenko.github.io/layout_human-rights/) <br>
+[DEMO LINK](https://ivanvfedenko.github.io/layout_human-rights/) <br>
 [TEST REPORT LINK](https://ivanvfedenko.github.io/layout_human-rights/report/html_report/)
