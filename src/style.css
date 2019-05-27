@@ -1,0 +1,27 @@
+body {
+  font-size: 13px;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+a {
+  color: green;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
