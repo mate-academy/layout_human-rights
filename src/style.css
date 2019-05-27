@@ -1,14 +1,12 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 h1 {
   font-size: 17px;
   font-weight: bold;
-  margin-top: 8px;
+  margin: 0 auto;
 }
 
 h2 {
