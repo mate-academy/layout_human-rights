@@ -231,3 +231,7 @@ If you have trouble copying contents from the document, you can also find the fu
 
 - [DEMO LINK](https://github.com/h2ash/layout_human-rights/tree/fs_may19_artem) <br>
 - [TEST REPORT LINK](https://h2ash.github.io/layout_human-rigths/report/html_report)
+
+
+- [DEMO LINK](https://h2ash.github.io/layout_human-rights/tree/fs_may19_artem) <br>
+- [TEST REPORT LINK](https://h2ash.github.io/layout_human-rights/report/html_report)
