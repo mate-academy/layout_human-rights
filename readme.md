@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-[DEMO LINK](https://github.com/irenhh/layout_human-rights/tree/fs_may19_iryna) <br>
+[DEMO LINK](https://irenhh.github.io/layout_human-rights/) <br>
 [TEST REPORT LINK](https://irenhh.github.io/layout_human-rights/report/html_report/)
