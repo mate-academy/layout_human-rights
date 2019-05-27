@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 - [UPDATE DEMO LINK](https://github.com/h2ash/layout_human-rights/tree/fs_may19_artem) <br>
-- [UPDATE TEST REPORT LINK](https://h2ash.github.io/layout_human_rigths/report/html_report/)
+- [UPDATE TEST REPORT LINK](https://h2ash.github.io/layout_human_rigths/tree/gh-pages/report/html_report)
