@@ -6,6 +6,7 @@ body {
 h1 {
   font-size: 17px;
   font-weight: bold;
+  margin-top: 0;
 }
 
 h2 {
@@ -19,4 +20,9 @@ p,
 ol,
 li {
   margin: 0;
+}
+
+a,
+a:hover {
+  color: green;
 }
