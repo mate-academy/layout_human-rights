@@ -1,0 +1,42 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 17px;
+}
+
+h2,
+a {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+h1,
+h2,
+a {
+  margin: 0;
+}
+
+a {
+  color: green;
+}
+
+a :hover {
+  cursor: pointer;
+}
+
+.preamble-content,
+article {
+  margin: 1em 0;
+  padding-top: 2px;
+}
+
+h2 {
+  padding-bottom: 2px;
+}
