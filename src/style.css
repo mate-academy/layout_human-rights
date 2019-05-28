@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Arial;
   font-size: 13px;
 }
@@ -7,23 +7,11 @@ h1 {
   font-size: 17px;
   font-weight: bold;
   margin-top: 5px;
-  margin-bottom: 15px;
-}
-
-h2,
-p,
-ol {
-  margin-bottom: 15px;
 }
 
 a {
   color: green;
   font-size: 15px;
-}
-
-#other {
-  font-size: 15px;
-  font-weight: normal;
 }
 
 a:visited {
@@ -33,4 +21,5 @@ a:visited {
 .article {
   font-size: 15px;
   font-weight: normal;
+  line-height: 1em;
 }
