@@ -4,24 +4,17 @@
 }
 
 h1 {
-  margin-top: 5px;
   font-size: 17px;
-  font-weight: bold;
+  margin-top: 0;
 }
 
 h2 {
   font-size: 15px;
   font-weight: normal;
-}
-
-h1,
-h2,
-p,
-ol {
-  margin-bottom: 15px;
+  margin: 1em 0;
 }
 
 a {
-  color: green;
-  font-size: 15px;
+  color: #008000;
+  font-size: inherit;
 }
