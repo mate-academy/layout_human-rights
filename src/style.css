@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+a {
+  color: green;
+  font-size: 15px;
+}
+
+a:visited {
+  color: green;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1em;
+}
