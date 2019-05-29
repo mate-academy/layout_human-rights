@@ -1,0 +1,33 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 17px;
+}
+
+h2 {
+  font-size: 15px;
+  padding-bottom: 2px;
+}
+
+a {
+  color: green;
+  font-size: 15px;
+}
+
+h1,
+h2,
+a {
+  margin: 0;
+}
+
+article {
+  margin: 1em 0;
+  padding-top: 2px;
+}
