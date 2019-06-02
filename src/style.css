@@ -1,10 +1,8 @@
 body {
   font-family: Arial;
   font-size: 13px;
-  margin-top: -3px;
 }
 
-article,
 h2 {
   font-size: 15px;
   margin: 1em 0;
@@ -14,6 +12,11 @@ h2 {
 h1 {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
+}
+
+p {
+  margin: 0;
 }
 
 a {
