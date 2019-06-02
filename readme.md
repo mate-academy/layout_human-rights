@@ -1,3 +1,8 @@
+**Result**
+
+[DEMO LINK](https://tolyaruban.github.io/layout_human-rights/) <br>
+[TEST REPORT LINK](https://tolyaruban.github.io/layout_human-rights/report/html_report/)
+
 # Human rights
 
 Transform the preamble and the first 16 articles of the following document into 
@@ -226,8 +231,3 @@ If you have trouble copying contents from the document, you can also find the fu
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
-
-**Result**
-
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
