@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+html{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+h1{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 1em 0;
+}
+h2{
+    margin: 1em 0;
+    font-size: 15px;
+}
+.link_green{
+    color: green;
+}
+body{
+    padding-top:15px; 
+}
+.wrap{
+    max-width: 600px;
+    margin: auto;
+    padding: 15px;
+    padding-left:35px; 
+    -webkit-box-shadow: 0px 0px 31px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 31px -13px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 31px -13px rgba(0,0,0,0.75);
+}
+ol{
+    padding-left:15px;
+}
