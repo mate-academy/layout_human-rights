@@ -1,0 +1,17 @@
+body {
+    font-size:13px;
+    font-family:Arial;
+}
+h1 {
+    font-size:17px;
+    font-weight:bold;
+}
+h2 {
+    font-size:15px;
+}
+a.decl {
+    color:green;
+}
+p.preamble {
+    margin-bottom:1em;
+}
