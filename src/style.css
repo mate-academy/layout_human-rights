@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1em;
+}
+
+.green {
+  color: green;
+}
