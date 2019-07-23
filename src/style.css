@@ -1,17 +1,26 @@
 body {
-    font-size:13px;
-    font-family:Arial;
+  font-family: Arial;
+  font-size: 13px;
 }
+
 h1 {
-    font-size:17px;
-    font-weight:bold;
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: bold;
 }
+
 h2 {
-    font-size:15px;
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
-a.decl {
-    color:green;
+
+.other-articles {
+  font-weight: normal;
 }
-p.preamble {
-    margin-bottom:1em;
+
+.link {
+  color: green;
 }
