@@ -1,0 +1,19 @@
+body {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 1em;
+}
+
+.title {
+  font-size: 17px;
+}
+
+.article {
+  font-size: 15px;
+  height: normal;
+  margin: 1em 0;
+}
+
+.whole-text {
+  color: green;
+}
