@@ -1,0 +1,19 @@
+.body {
+  font: 13px Arial, Helvetica, sans-serif;
+}
+
+.article-title {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.chapter-title {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.more-articles {
+  color: green;
+}
