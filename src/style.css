@@ -1,27 +1,18 @@
 body {
   font-family: "Arial", sans-serif;
   font-size: 13px;
-  margin: 8px;
 }
 
-h1,
-h2 {
-  margin-top: 0;
-}
-
-h1 {
+.main-title {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
-h2 {
+.article-title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
-}
-
-article {
-  /* margin-bottom: 1em; */
 }
 
 .other-articles a {
