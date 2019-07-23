@@ -8,16 +8,16 @@ body {
   margin-bottom: 0;
 }
 
-a {
+.styles--a {
   color: green;
 }
 
-h1 {
+.styles--h1 {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.styles--h2 {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
