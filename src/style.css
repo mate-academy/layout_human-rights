@@ -1,0 +1,20 @@
+body {
+  font-size: 13px;
+  font-family: "Arial", sans-serif;
+}
+
+.headline {
+  margin-top: inherit;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.footer-link {
+  color: green;
+}
