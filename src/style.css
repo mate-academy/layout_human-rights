@@ -1,15 +1,12 @@
-* {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding: 0;
+body {
   font-family: "Arial", sans-serif;
   font-size: 13px;
+  margin: 8px;
 }
 
 h1,
 h2 {
   margin-top: 0;
-  margin-bottom: 1em;
 }
 
 h1 {
@@ -19,14 +16,12 @@ h1 {
 
 h2 {
   font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
 }
 
 article {
-  margin-bottom: 1em;
-}
-
-.articles-list {
-  list-style: none;
+  /* margin-bottom: 1em; */
 }
 
 .other-articles a {
