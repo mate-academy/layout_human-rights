@@ -5,13 +5,13 @@ body {
   line-height: normal;
 }
 
-#h1-heading {
+.h1-heading {
   margin: 0;
   font-size: 17px;
   font-weight: bold;
 }
 
-#h2-heading {
+.h2-heading {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
