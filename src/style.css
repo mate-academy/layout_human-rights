@@ -3,18 +3,18 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.mainTitle {
   font-size: 17px;
   font-weight: 700;
   margin-top: 0;
 }
 
-h2 {
+.articleTitle {
   font-size: 15px;
   font-weight: 400;
   margin: 1em 0;
 }
 
-a {
+.linkPdf {
   color: green;
 }
