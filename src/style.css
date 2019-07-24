@@ -1,5 +1,4 @@
-body,
- {
+body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
@@ -10,16 +9,12 @@ h1 {
   margin: 0 auto;
 }
 
-p {
-  margin: 0 auto;
-}
-
-h2 {
+.article__name {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-h2 a {
+.article__name a {
   color: green;
 }
