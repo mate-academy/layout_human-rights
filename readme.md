@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-[Solution "Human rights"]((https://vladyslavsak.github.io/layout_human-rights/)) <br>
-[Bugreport for my solution](https://vladyslavsak.github.io/layout_human-rights/html_report/)
+[Solution "Human rights"](https://vladyslavsak.github.io/layout_human-rights/) <br>
+[Bugreport for my solution](https://vladyslavsak.github.io/layout_human-rights/html_report)
