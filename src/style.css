@@ -5,17 +5,15 @@ body {
 
 .header {
   font-size: 17px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .article {
   font-size: 15px;
   font-weight: normal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
-.article_17-to-30 a {
+.other-article {
   color: green;
 }
