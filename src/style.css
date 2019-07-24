@@ -1,0 +1,20 @@
+body {
+  font-size: 13px;
+  font-family: Arial;
+  font-weight: normal;
+}
+
+.title {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 15px;
+  margin: 1em 0;
+  font-weight: inherit;
+}
+
+a {
+  color: green;
+}
