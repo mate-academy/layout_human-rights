@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Arial;
   font-size: 13px;
 }
@@ -17,5 +17,4 @@
 
 .article .link {
   color: green;
-  font-size: 15px;
 }
