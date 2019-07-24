@@ -231,3 +231,4 @@ If you have trouble copying contents from the document, you can also find the fu
 
 * [UPDATE DEMO LINK](https://igaryok.github.io/layout_human-rights/)
 * [UPDATE TEST REPORT LINK](https://igaryok.github.io/layout_human-rights/report/html_report/)
+* [PR] (https://github.com/mate-academy/layout_human-rights/pull/164)
