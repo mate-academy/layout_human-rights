@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 - [DATE DEMO LINK](https://aleks-mos.github.io/layout_human-rights/) <br>
-- [DATE TEST REPORT LINK](https:aleks-mos.github.io/layout_human-rights/report/html_report/)
+- [DATE TEST REPORT LINK](https://aleks-mos.github.io/layout_human-rights/report/html_report/)
