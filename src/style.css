@@ -7,16 +7,16 @@ body {
   margin: 0;
 }
 
-.styles--a {
+.link {
   color: green;
 }
 
-.styles--h1 {
+.headline {
   font-size: 17px;
   font-weight: bold;
 }
 
-.styles--h2 {
+.subtitle {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
