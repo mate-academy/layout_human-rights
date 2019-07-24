@@ -3,10 +3,9 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.declaration-style {
   font-size: 17px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
   font-weight: bold;
 }
 
