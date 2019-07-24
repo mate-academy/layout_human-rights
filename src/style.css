@@ -1,0 +1,32 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 13px;
+}
+
+.main-title {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.title-article {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.link-title a {
+  color: green;
+}
+
+.link-title a:active {
+  color: green;
+}
+
+.link-title a:hover {
+  color: green;
+}
+
+.link-title a:visited {
+  color: green;
+}
