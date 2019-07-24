@@ -2,7 +2,6 @@
 body {
   font-family: Arial;
   font-size: 13px;
-  line-height: normal;
 }
 
 .h1-heading {
@@ -13,10 +12,9 @@ body {
 
 .h2-heading {
   font-size: 15px;
-  font-weight: normal;
   margin: 1em 0;
 }
 
-a {
+.a-to-pdf {
   color: green;
 }
