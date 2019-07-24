@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.header {
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.article_17-to-30 a {
+  color: green;
+}
