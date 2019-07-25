@@ -5,7 +5,6 @@ body {
 
 .main-title {
   font-size: 17px;
-  font-weight: bold;
   margin: 0;
 }
 
@@ -15,18 +14,9 @@ body {
   margin: 1em 0;
 }
 
-.link-title a {
-  color: green;
-}
-
-.link-title a:active {
-  color: green;
-}
-
-.link-title a:hover {
-  color: green;
-}
-
-.link-title a:visited {
+.link-title,
+.link-title:hover
+.link-title:visited
+.link-title:active {
   color: green;
 }
