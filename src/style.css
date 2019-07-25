@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.declaration-style {
+  font-size: 17px;
+  margin: 0;
+}
+
+.h2-mod {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.other-articles {
+  font-weight: normal;
+}
+
+.link {
+  color: green;
+}
