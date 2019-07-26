@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.restyle-h1 {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.restyle-h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link a {
+  color: green;
+}
