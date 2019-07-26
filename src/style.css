@@ -1,32 +1,19 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Arial;
   font-size: 13px;
-  padding-top: 15px;
 }
 
-h1 {
+.main-h1 {
   font-size: 17px;
-  margin: 1em 0;
+  margin-top: 0;
 }
 
-h2 {
-  margin: 1em 0;
+.title-h2 {
   font-size: 15px;
   font-weight: normal;
+  margin: 1em 0;
 }
 
 .link_green {
   color: green;
-}
-
-.wrap {
-  max-width: 600px;
-  margin: auto;
-  padding: 15px;
-  padding-left: 35px;
-}
-
-ol {
-  padding-left: 15px;
 }
