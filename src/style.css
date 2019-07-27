@@ -1,20 +1,20 @@
-.human-style {
+body {
   font-family: Arial;
   font-size: 13px;
 }
 
-.main-phrase {
+.headline {
   margin: 0;
   font-size: 17px;
   font-weight: bold;
 }
 
-.semi-main {
+.second-headline {
   margin: 1em 0;
   font-size: 15px;
   font-weight: normal;
 }
 
-.to-pdf {
+.link {
   color: green;
 }
