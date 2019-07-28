@@ -231,3 +231,4 @@ If you have trouble copying contents from the document, you can also find the fu
 
 [DEMO LINK](https://shklyarigor2015.github.io/layout_human-rights/) <br>
 [TEST REPORT LINK](https://shklyarigor2015.github.io/layout_human-rights/report/html_report/)
+[PR](https://github.com/mate-academy/layout_human-rights/pull/174)
