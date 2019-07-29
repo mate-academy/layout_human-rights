@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
--[DEMO LINK](https://vladyslav223.github.io/layout_human-rights/) <br>
--[TEST REPORT LINK](https://vladyslav223.github.io/layout_human-rights/report/html_report/)
+- [DEMO LINK](https://vladyslav223.github.io/layout_human-rights/) <br>
+- [TEST REPORT LINK](https://vladyslav223.github.io/layout_human-rights/report/html_report/)
