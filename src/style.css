@@ -3,12 +3,12 @@ body {
   font-size: 13px;
 }
 
-.main-h1 {
+.main-heading {
   font-size: 17px;
   margin-top: 0;
 }
 
-.title-h2 {
+.title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
