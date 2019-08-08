@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.header {
+  margin-top: 0;
+}
+
+.arcticle-header {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+a {
+  color: green;
+}
