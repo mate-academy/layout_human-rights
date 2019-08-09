@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.header {
+  font-size: 17px;
+  margin: 0;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.other-article {
+  color: green;
+}
