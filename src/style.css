@@ -1,0 +1,19 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+.heading-first {
+  font-size: 17px;
+  margin-top: inherit;
+}
+
+.heading-second {
+  font-weight: normal;
+  font-size: 15px;
+  margin: 1em 0;
+}
+
+.continue-text {
+  color: green;
+}
