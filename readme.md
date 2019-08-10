@@ -229,7 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-- [DEMO LINK](https://chernijanna.github.io/layout_human-rights/) <br>
-- [TEST REPORT LINK](https://chernijanna.github.io/layout_human-rights/report/html_report/)<br>
-
-can not pass all the test, help me find a mistake
+- [LINK](https://chernijanna.github.io/layout_human-rights/) <br>
+- [REPORT LINK](https://chernijanna.github.io/layout_human-rights/report/html_report/)<br>
