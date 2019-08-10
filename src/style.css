@@ -3,18 +3,17 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
-  font-weight: bold;
+.heading-first {
   font-size: 17px;
-  margin: 0;
+  margin-top: inherit;
 }
 
-h2 {
+.heading-second {
   font-weight: normal;
   font-size: 15px;
   margin: 1em 0;
 }
 
-a {
+.continue-text {
   color: green;
 }
