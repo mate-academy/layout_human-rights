@@ -1,0 +1,20 @@
+body {
+  font-family: "Arial", "Times New Roman";
+  font-size: 13px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.headlines {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
