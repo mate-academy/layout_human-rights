@@ -3,7 +3,7 @@ body {
   font-size: 13px;
 }
 
-.maintitle {
+.title {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
@@ -15,6 +15,6 @@ body {
   margin: 1em 0;
 }
 
-.continue {
+.next-articles {
   color: green;
 }
