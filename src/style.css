@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-header {
+  font-size: 17px;
+  margin: 0;
+}
+
+.article-header {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.next-articles-reference {
+  color: green;
+}
