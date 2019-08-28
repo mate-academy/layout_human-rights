@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-- [DEMO LINK](https://github.com/mate-academy/layout_human-rights/) <br>
-- [TEST REPORT LINK](https://github.com/frucelestine/layout_human-rights/tree/gh-pages/report/html_report/)
+- [DEMO LINK](https://frucelestine.github.io/layout_human-rights/) <br>
+- [TEST REPORT LINK](https://frucelestine.github.io/layout_human-rights/report/html_report/)
