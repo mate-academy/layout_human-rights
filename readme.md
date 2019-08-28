@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
-[UPDATE DEMO LINK](https://nikakarelets.github.io/fs_aug19_veronika/) <br>
-[UPDATE TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
+[LINK](https://nikakarelets.github.io/fs_aug19_veronika/) <br>
+[TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
