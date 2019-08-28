@@ -228,6 +228,5 @@ If you have trouble copying contents from the document, you can also find the fu
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
 
 **Result**
-
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[REPORT LINK](file:///C:/mateAcademy/layout_human-rights/backstop_data/html_report/index.html)
+- [DEMO LINK](https://volodymyr-roiuk.github.io/layout_human-rights/) <br>
+- [REPORT LINK](https://volodymyr-roiuk.github.io/layout_human-rights/report/html_report/)
