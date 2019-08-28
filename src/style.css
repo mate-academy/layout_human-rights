@@ -1,0 +1,18 @@
+body {
+  font: 13px Arial;
+}
+
+.heading {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.article-title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.greenLink {
+  color: green;
+}
