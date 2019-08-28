@@ -10,12 +10,12 @@ h1 {
   margin: 0;
 }
 
-.header_2 {
+.h2 {
   font-size: 15px;
   font-weight: 400;
   margin: 1em 0;
 }
 
-a {
+.a {
   color: green;
 }
