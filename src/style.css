@@ -3,18 +3,18 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.nameText {
   font-size: 17px;
   margin-top: 0;
 }
 
-h2 {
+.paragraph {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-a {
+.linkMore {
   color: green;
   font-size: 15px;
 }
