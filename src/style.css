@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.nameText {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.paragraph {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.linkMore {
+  color: green;
+  font-size: 15px;
+}
