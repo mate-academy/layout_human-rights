@@ -3,13 +3,13 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.universal {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.pre {
   font-size: 15px;
   font-weight: unset;
   margin: 1em 0;
