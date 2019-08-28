@@ -1,0 +1,19 @@
+body {
+  font: 13px Arial;
+  /* line-height: 0; */
+}
+
+h1 {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+a {
+  color: green;
+}
