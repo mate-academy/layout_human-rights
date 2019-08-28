@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.main-title {
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.article-title {
+  font-weight: normal;
+  font-size: 15px;
+  margin: 1em 0;
+}
+
+.pagination {
+  color: green;
+}
