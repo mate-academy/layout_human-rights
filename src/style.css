@@ -1,0 +1,23 @@
+body * {
+  margin: 0;
+}
+
+body {
+  font-family: Arial, serif;
+  font-size: 13px;
+}
+
+.head {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sub-head {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: #008000;
+}
