@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[UPDATE TEST REPORT LINK](https://karpyshynroman.github.io/layout_human-rights/)
