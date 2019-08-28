@@ -3,18 +3,18 @@ body {
   font-size: 13px;
 }
 
-.header {
+.heading {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
 }
 
-.articles {
+.article-title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.green {
+.next-articles {
   color: green;
 }
