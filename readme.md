@@ -229,5 +229,5 @@ If you have trouble copying contents from the document, you can also find the fu
 
 **Result**
 
- - [DEMO LINK](https://crazynoodl.github.io/layout_human-rights/) <br>
- - [UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
+[REPORT LINK](https://crazynoodl.github.io/layout_human-rights/report/html_report/)
