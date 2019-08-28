@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 [UPDATE DEMO LINK](https://karpyshynroman.github.io/layout_human-rights/) <br>
-[UPDATE TEST REPORT LINK](https://karpyshynroman.github.io/layout_human-rights/)
+[UPDATE TEST REPORT LINK](https://karpyshynroman.github.io/layout_human-rights/report/html_report/)
