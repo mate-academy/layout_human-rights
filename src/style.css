@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.m {
+  font-size: 17px;
+  margin: 0;
+}
+
+.g {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
+
+a:visited {
+  color: green;
+}
