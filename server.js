@@ -1,10 +1,6 @@
 'use strict';
 
 const browserSync = require('browser-sync');
+const config = require('@mate-academy/browsersync-config');
 
-browserSync({
-  server: 'src',
-  files: ['src/*.html', 'src/*.css'],
-  port: 8080,
-  notify: false,
-});
+browserSync(config);
