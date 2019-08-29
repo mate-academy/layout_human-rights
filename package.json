@@ -54,5 +54,9 @@
       "post-commit": "git update-index --again",
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "to": "^0.2.9"
   }
 }
