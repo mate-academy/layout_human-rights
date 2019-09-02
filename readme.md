@@ -230,4 +230,4 @@ If you have trouble copying contents from the document, you can also find the fu
 **Result**
 
 [UPDATE DEMO LINK](https://wiziwur.github.io/layout_human-rights/) <br>
-[UPDATE TEST REPORT LINK](file:///D:/1/layout_human-rights/backstop_data/html_report/index.html)
+[UPDATE TEST REPORT LINK](https://wiziwur.github.io/layout_human-rights/report/html_report/)
