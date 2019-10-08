@@ -9,12 +9,12 @@ const { basicScenario } = backstop;
 const basic = {
   ...basicScenario,
   label: 'Elementary test',
-  referenceUrl:
-    'https://mate-academy.github.io/layout_solutions/human-rights/',
+  referenceUrl: basicScenario.referenceUrl + '/human-rights/',
 };
 
 const config = {
   ...backstop,
+  fileNameTemplate: '{scenarioLabel}',
   viewports: [
     {
       name: 'tablet_h',
@@ -25,33 +25,33 @@ const config = {
   scenarios: [
     {
       ...basic,
-      label: 'entire-document',
+      label: 'Entire document',
       selectors: ['document'],
     },
     {
       ...basic,
-      label: 'h1-heading',
+      label: 'H1 heading',
       selectors: ['h1'], // only one h1 on the page
     },
     {
       ...basic,
-      label: 'h2-heading',
-      selectors: ['h2:nth-of-type(100n + 1)'], // check one h2
+      label: 'H2 heading',
+      selectors: ['h2:first-of-type'], // check one h2
     },
     {
       ...basic,
-      label: 'paragraphs',
-      selectors: ['p:nth-of-type(100n + 1)'], // check one paragraph
+      label: 'Paragraph',
+      selectors: ['p:first-of-type'], // check one paragraph
     },
     {
       ...basic,
-      label: 'lists',
-      selectors: ['ol:nth-of-type(100n + 1)'], // check one list
+      label: 'Ordered list',
+      selectors: ['ol:first-of-type'], // check one list
     },
     {
       ...basic,
-      label: 'link',
-      selectors: ['a:nth-of-type(100n + 1)'], // check one link
+      label: 'Articles 17 to 30 link',
+      selectors: ['a:first-of-type'], // check one link
     },
   ],
 };
