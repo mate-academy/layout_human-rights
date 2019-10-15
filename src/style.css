@@ -3,18 +3,22 @@ body {
   font-size: 13px;
 }
 
-.headTitle {
-  margin-top: 0;
+.document-title {
+  margin: 0;
   font-size: 17px;
   font-weight: bold;
 }
 
-.column {
-  margin: 1em 0;
+.article-title {
   font-size: 15px;
-  font-weight: normal;
+  font-weight: 100;
+  margin: 1em 0;
 }
 
-.greenLink {
+.article-content {
+  margin: 0;
+}
+
+.full-document {
   color: green;
 }
