@@ -1,0 +1,21 @@
+body {
+  font-family: arial;
+  font-size: 13px;
+}
+
+h1 {
+  font-style: bold;
+  font-size: 17px;
+  margin-top: 0;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.ref {
+  color: green;
+}
