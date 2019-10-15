@@ -1,0 +1,21 @@
+.all_document {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main_header {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.full_doc_version {
+  color: green;
+}
