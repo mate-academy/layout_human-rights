@@ -3,19 +3,19 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.header {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
 }
 
-h2 {
+.subheader {
   font-size: 15px;
   font-weight: normal;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-a {
+.link {
   color: green;
 }
