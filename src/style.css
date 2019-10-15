@@ -1,0 +1,23 @@
+body {
+  font-size: 13px;
+  font-family: arial;
+  line-height: normal;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.article {
+  font-size: 15px;
+  margin: 1em 0;
+  font-weight: normal;
+}
+
+a {
+  color: green;
+  font-size: 15px;
+  font-weight: normal;
+}
