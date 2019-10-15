@@ -3,13 +3,13 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.Declaration {
   font-style: bold;
   font-size: 17px;
   margin-top: 0;
 }
 
-h2 {
+.Puncts {
   font-weight: normal;
   font-size: 15px;
   margin-top: 1em;
