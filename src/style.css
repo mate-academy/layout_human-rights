@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.heading1 {
+  margin-top: 0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.heading2 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.link {
+  color: green;
+}
