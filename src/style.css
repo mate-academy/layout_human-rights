@@ -1,24 +1,21 @@
-* {
-  font-size: 13px;
+.allText {
   font-family: Arial;
-  vertical-align: 0;
+  font-size: 13px;
 }
 
-h1 {
-  font-weight: bold;
+.headline1 {
+  margin-top: 0;
   font-size: 17px;
+  font-weight: bold;
 }
 
-h2 {
+.headline2 {
+  margin-top: 1em;
+  margin-bottom: 1em;
   font-size: 15px;
   font-weight: normal;
 }
 
-a {
+.reference {
   color: green;
-}
-
-.preamble {
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
