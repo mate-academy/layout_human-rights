@@ -4,7 +4,7 @@ body {
   line-height: normal;
 }
 
-h1 {
+.header1 {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
@@ -16,7 +16,7 @@ h1 {
   font-weight: normal;
 }
 
-a {
+.link_to {
   color: green;
   font-size: 15px;
   font-weight: normal;
