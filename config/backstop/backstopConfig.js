@@ -3,7 +3,6 @@
 // https://github.com/garris/BackstopJS#advanced-scenarios
 
 const backstop = require('@mate-academy/backstop-config');
-
 const { basicScenario } = backstop;
 
 const basic = {
