@@ -3,7 +3,7 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
@@ -15,6 +15,6 @@ h1 {
   margin: 1em 0;
 }
 
-a {
+.human-rights-link {
   color: green;
 }
