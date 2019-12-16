@@ -13,10 +13,7 @@ h2 {
   margin: 1em 0;
 }
 
-a {
-  color: green;
-}
-
+a,
 a:hover {
   color: green;
 }
