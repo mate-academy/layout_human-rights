@@ -5,15 +5,13 @@ body {
 
 h1 {
   font-size: 17px;
-  font-weight: bold;
   margin-top: 0;
 }
 
 h2 {
   font-size: 15px;
   font-weight: normal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 a {
