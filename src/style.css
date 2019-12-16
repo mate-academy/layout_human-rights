@@ -1,11 +1,5 @@
-
-html {
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-}
-
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -21,7 +15,6 @@ h2 {
   margin: 1em 0;
 }
 
-h2 a,
-h2 a:visited {
+h2 a {
   color: green;
 }
