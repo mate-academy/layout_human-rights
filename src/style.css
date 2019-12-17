@@ -10,7 +10,6 @@ p {
 .main-title {
   font-size: 17px;
   margin-top: 0;
-  font-weight: bold;
 }
 
 .sub-title {
@@ -19,7 +18,7 @@ p {
   font-weight: normal;
 }
 
-h2 a {
+.reference {
   color: green;
   font-weight: normal;
 }
