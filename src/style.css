@@ -6,7 +6,6 @@ body {
 h1 {
   font-size: 17px;
   margin-top: 0;
-  /*font-weight: bold;*/
 }
 
 h2 {
@@ -22,8 +21,6 @@ a {
 
 li,
 li p {
-  font-family: "Arial", sans-serif;
-  font-size: 13px;
   margin-top: 0;
   margin-bottom: 0;
 }
