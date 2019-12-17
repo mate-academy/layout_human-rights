@@ -10,8 +10,8 @@ h1 {
 h2 {
   font-size: 15px;
   font-weight: normal;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 p {
