@@ -14,10 +14,7 @@ body {
   margin: 1em 0;
 }
 
-.document-link {
-  color: green;
-}
-
+.document-link,
 .document-link:hover {
   color: green;
 }
