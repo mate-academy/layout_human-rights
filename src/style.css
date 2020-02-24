@@ -16,15 +16,17 @@ h2 {
   font-weight: normal;
 }
 
-a {
+.link {
   color: green;
+  font-size: 15px;
+  font-weight: normal;
 }
 
-p {
+.paragraph {
   margin: 0;
-  padding: 0;
 }
 
-ol {
-  margin: 0;
+.list {
+  margin-top: 0;
+  margin-bottom: 0;
 }
