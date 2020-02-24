@@ -3,22 +3,22 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.articles {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-p {
+.text {
   margin: 0;
 }
 
-a {
+.articles-rest {
   color: green;
 }
