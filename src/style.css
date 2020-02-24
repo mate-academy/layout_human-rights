@@ -1,21 +1,21 @@
-body {
+html {
   font-family: Arial;
   font-size: 13px;
 }
 
-h1 {
+.main-head {
   margin: 0;
   font-size: 17px;
   font-style: bold;
 }
 
-h2 {
+.s-head {
   font-weight: normal;
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-a {
+.green-text {
   color: green;
 }
