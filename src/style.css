@@ -1,31 +1,20 @@
-body {
-  font-family: Arial;
+html {
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.sub-heading {
   font-size: 15px;
-  font-weight: normal;
+  font-weight: lighter;
   margin: 1em 0;
 }
 
-a {
+.link {
   color: green;
-  text-decoration: underline;
-}
-
-p {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-}
-
-li {
-  font-size: 1em;
 }
