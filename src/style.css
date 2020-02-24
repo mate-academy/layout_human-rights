@@ -3,18 +3,22 @@ html {
   font-size: 13px;
 }
 
-h1 {
+.page-title {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.subtitle {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-a {
+.link {
+  color: green;
+}
+
+.link:visited {
   color: green;
 }
