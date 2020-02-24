@@ -3,18 +3,18 @@ body {
   font-size: 13px;
 }
 
-.h1 {
+.display-1 {
   font-size: 17px;
-  font-weight: 700;
+  font-weight: bold;
   margin: 0;
 }
 
-.h2 {
+.display-2 {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.more_links {
+.link {
   color: green;
 }
