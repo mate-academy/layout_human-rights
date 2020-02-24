@@ -2,16 +2,16 @@ body {
   font-family: Arial;
   font-size: 13px;
   font-style: normal;
-}
-
-h2 {
   padding: 0;
 }
+
+/*h2 {*/
+/*  padding: 0;*/
+/*}*/
 
 .universal {
   font-size: 17px;
   font-weight: 700;
-  /*font-style: bold;*/
 }
 
 .article {
