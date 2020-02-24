@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+  font-style: normal;
+}
+
+h2 {
+  padding: 0;
+}
+
+.universal {
+  font-size: 17px;
+  font-weight: 700;
+  /*font-style: bold;*/
+}
+
+.article {
+  font-weight: 400;
+  font-size: 15px;
+  margin: 1em auto;
+}
+
+a.documents {
+  color: green;
+  border-bottom: 1px solid green;
+}
