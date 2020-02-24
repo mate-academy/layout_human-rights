@@ -1,30 +1,20 @@
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  font-weight: normal;
-}
-
-p {
-  margin: 0;
 }
 
 .link {
   color: green;
-  font-size: 15px;
-  font-weight: normal;
-  margin: 1em 0;
+}
+
+.link:visited {
+  color: green;
 }
 
 .heading {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
-}
-
-.preamble {
-  font-size: 15px;
-  font-weight: normal;
-  margin: 1em 0;
 }
 
 .article {
