@@ -5,10 +5,6 @@ body {
   padding: 0;
 }
 
-/*h2 {*/
-/*  padding: 0;*/
-/*}*/
-
 .universal {
   font-size: 17px;
   font-weight: 700;
@@ -20,7 +16,7 @@ body {
   margin: 1em auto;
 }
 
-a.documents {
+.documents {
   color: green;
   border-bottom: 1px solid green;
 }
