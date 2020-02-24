@@ -13,8 +13,7 @@ h1 {
 h2 {
   font-weight: normal;
   font-size: 15px;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 ol {
