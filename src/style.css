@@ -3,29 +3,28 @@ html {
   font-size: 13px;
 }
 
-a {
-  color: green;
-}
-
-h1 {
+.main-header {
   font-size: 17px;
-  font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.preamble-header,
+.article-header {
   font-size: 15px;
   font-weight: normal;
-  /* line-height: 1em; */
   padding: 1em 0;
   margin: 0;
 }
 
-p {
+.preamble, {
   margin: 0;
   padding: 0;
 }
 
-ol {
+.article-list {
   margin: 0;
+}
+
+.green-link {
+  color: green;
 }
