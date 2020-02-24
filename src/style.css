@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-weight: normal;
+}
+
+.articles-link {
+  color: green;
+}
+
+.article-text {
+  margin-top: 0;
+  margin-bottom: 0;
+}
