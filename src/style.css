@@ -1,0 +1,24 @@
+html {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.declaration_head {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.declaration_inner-head {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.articles {
+  margin: 0;
+}
+
+.green_link {
+  color: green;
+}
