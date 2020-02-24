@@ -1,28 +1,20 @@
 body {
   font-size: 13px;
-  font-family: Arial;
+  font-family: Arial, sans-serif;
 }
 
-p {
-  margin: 0;
-}
-
-h1 {
-  margin: 0;
-}
-
-h1 {
+.main-head {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
-h2 {
+.sub-head {
   font-size: 15px;
   font-weight: normal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
-a {
+.green-link {
   color: green;
 }
