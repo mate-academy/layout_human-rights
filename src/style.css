@@ -1,0 +1,21 @@
+html {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-head {
+  margin: 0;
+  font-size: 17px;
+  font-style: bold;
+}
+
+.s-head {
+  font-weight: normal;
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.green-text {
+  color: green;
+}
