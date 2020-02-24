@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+a {
+  color: green;
+}
