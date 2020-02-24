@@ -3,18 +3,22 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.header-main {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.header-second,
+.header-link a {
   font-size: 15px;
   font-weight: normal;
+}
+
+.header-second {
   margin: 1em 0;
 }
 
-h2 a {
+.header-link a {
   color: green;
 }
