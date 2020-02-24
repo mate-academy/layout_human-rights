@@ -1,0 +1,24 @@
+body {
+  font-size: 13;
+  font-family: Arial, sans-serif;
+}
+
+.artic {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
+
+.link:visited {
+  color: green;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
