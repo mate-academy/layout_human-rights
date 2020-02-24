@@ -3,18 +3,18 @@ html {
   font-size: 13px;
 }
 
-h1 {
+.declaration__head {
   font-size: 17px;
   font-weight: 700;
   margin: 0;
 }
 
-h2 {
+.declaration__inner-head {
   font-size: 15px;
   font-weight: 300;
   margin: 1em 0;
 }
 
-a {
+.declaration__link {
   color: green;
 }
