@@ -16,7 +16,8 @@ html {
   margin: 0;
 }
 
-.preamble, {
+.preamble-text,
+.article-text {
   margin: 0;
   padding: 0;
 }
