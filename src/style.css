@@ -3,29 +3,23 @@ html {
   font-size: 13px;
 }
 
-h1 {
+.page-title {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
-h2 {
+.subtitle {
   font-size: 15px;
   font-weight: normal;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-a {
+.pdf-link {
   color: green;
 }
 
-a:visited {
+.pdf-link:visited {
   color: green;
-}
-
-h1,
-p,
-a {
-  margin-top: 0;
-  margin-bottom: 0;
 }
