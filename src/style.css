@@ -1,0 +1,24 @@
+body {
+  font-size: 13px;
+  font-family: Arial;
+}
+
+.article-header {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+}
+
+.link-continue {
+  color: green;
+}
+
+.link-continue:visited {
+  color: green;
+}
