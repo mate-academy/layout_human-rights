@@ -3,26 +3,26 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.title1 {
   font-weight: bold;
   font-size: 17px;
   margin-bottom: 0;
   margin-top: 0;
 }
 
-h2 {
+.articleN {
   font-weight: normal;
   font-size: 15px;
   margin: 1em 0;
 }
 
-ol {
+.list {
   font-size: 13px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-p {
+.parag {
   font-size: 13px;
   margin-top: 0;
   margin-bottom: 0;
