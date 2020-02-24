@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+a {
+  color: green;
+  text-decoration: underline;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+li {
+  font-size: 1em;
+}
