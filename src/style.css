@@ -3,20 +3,20 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.mainHeader {
   font-weight: bold;
   font-size: 17px;
   margin: 0;
 }
 
-h2 {
+.mainArticle {
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
   font-weight: normal;
 }
 
-a {
+.linkArticle {
   color: green;
   font-weight: normal;
 }
