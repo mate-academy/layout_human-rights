@@ -4,9 +4,9 @@ html {
 }
 
 h1 {
+  margin: 0;
   font-size: 17px;
   font-weight: bold;
-  margin: 0;
 }
 
 h2 {
@@ -15,11 +15,11 @@ h2 {
   margin: 1em 0;
 }
 
-h2 a,
-h2 a:visited {
+.link-green,
+.link-green:visited {
   color: green;
 }
 
-p {
+.paragraph {
   margin: 0;
 }
