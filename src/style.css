@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.heading {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.articles {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.text {
+  margin: 0;
+}
+
+.articles-rest {
+  color: green;
+}
