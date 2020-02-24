@@ -4,28 +4,19 @@ body {
 }
 
 h1 {
-  font-family: Arial;
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
 h2 {
-  font-family: Arial;
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
 p {
-  font-family: Arial;
-  font-size: 13px;
   margin: 0;
-}
-
-ol {
-  font-family: Arial;
-  font-size: 13px;
 }
 
 a {
