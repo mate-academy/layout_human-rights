@@ -1,11 +1,10 @@
 .main {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
 .heading {
   font-size: 17px;
-  font-weight: bold;
   margin: 0;
 }
 
