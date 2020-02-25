@@ -1,6 +1,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
 }
 
 .title1 {
@@ -17,18 +18,16 @@ body {
 }
 
 .list {
-  font-size: 13px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .parag {
-  font-size: 13px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-a {
+.readMore {
   color: green;
   font-size: 15px;
 }
