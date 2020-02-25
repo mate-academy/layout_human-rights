@@ -1,0 +1,26 @@
+.main {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main__title {
+  font-weight: bold;
+  font-size: 17px;
+  margin: 0;
+}
+
+.main__subtitle {
+  font-weight: normal;
+  font-size: 15px;
+  /* line-height: 1em; */
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* p {
+  line-height: 1em;
+} */
+
+.link {
+  color: green;
+}
