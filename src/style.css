@@ -3,19 +3,19 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.articles {
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
   font-weight: normal;
 }
 
-a {
+.link {
   color: green;
 }
