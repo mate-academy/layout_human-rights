@@ -1,15 +1,20 @@
-body {
+html {
   font-size: 13px;
-  font-family: Arial;
+  font-family: Arial, sans-serif;
 }
 
-h1 {
+h1,
+h2,
+p {
   margin: 0;
+}
+
+.head-text {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.reg-text {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
@@ -18,8 +23,4 @@ h2 {
 .link-green,
 .link-green:visited {
   color: green;
-}
-
-.paragraph {
-  margin: 0;
 }
