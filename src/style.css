@@ -8,16 +8,14 @@ html {
   margin: 0;
 }
 
-.preamble-header,
-.article-header {
+.headers {
   font-size: 15px;
   font-weight: normal;
   padding: 1em 0;
   margin: 0;
 }
 
-.preamble-text,
-.article-text {
+.texts {
   margin: 0;
   padding: 0;
 }
