@@ -1,6 +1,12 @@
-body {
-  font-family: Arial;
+html {
+  font-family: Arial, sans-serif;
   font-size: 13px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
 }
 
 .main-title {
