@@ -1,0 +1,29 @@
+html {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-header {
+  font-size: 17px;
+  margin: 0;
+}
+
+.headers {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+  margin: 0;
+}
+
+.texts {
+  margin: 0;
+  padding: 0;
+}
+
+.article-list {
+  margin: 0;
+}
+
+.green-link {
+  color: green;
+}
