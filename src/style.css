@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, serif;
+  font-size: 13px;
+}
+
+.title-h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.title-h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link_pdf {
+  color: green;
+  font-size: 15px;
+}
