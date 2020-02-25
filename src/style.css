@@ -3,22 +3,23 @@ html {
   font-size: 13px;
 }
 
-body {
-  margin-top: 0;
-  margin-bottom: 0;
+h1,
+h2,
+p {
+  margin: 0;
 }
 
-h1 {
+.page-tittle {
   font-size: 17px;
   font-weight: bold;
-  margin-top: 1em;
 }
 
-h2 {
+.article-tittle {
   font-size: 15px;
   font-weight: normal;
+  margin: 1em 0;
 }
 
-a {
+.article-tittle .link-article {
   color: green;
 }
