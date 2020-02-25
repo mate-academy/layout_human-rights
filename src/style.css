@@ -1,0 +1,26 @@
+html {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.head-text {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.reg-text {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link-green,
+.link-green:visited {
+  color: green;
+}
