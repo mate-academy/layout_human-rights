@@ -15,10 +15,6 @@ body {
   margin: 1em 0;
 }
 
-a {
+.number {
   color: green;
-}
-
-div {
-  width: 100;
 }
