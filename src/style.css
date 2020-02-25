@@ -1,0 +1,27 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.main_title {
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.text {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-weight: unset;
+}
+
+.link{
+  font-size: 15px;
+  color: green;
+}
