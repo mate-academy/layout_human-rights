@@ -3,17 +3,17 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.main-paragraph {
   font-size: 17px;
   margin: 0;
 }
 
-h2 {
+.secondery-paragraph {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-a {
+.paragraph-link {
   color: green;
 }
