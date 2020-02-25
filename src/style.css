@@ -1,17 +1,25 @@
-body {
-  font-family: Arial;
+html {
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-h1 {
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.page-title {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.article-title {
   font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
 }
 
-a {
+.read-more {
   color: green;
 }
