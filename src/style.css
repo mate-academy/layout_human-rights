@@ -1,0 +1,21 @@
+html {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.head-title {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.article-title {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.green-link {
+  color: green;
+}
