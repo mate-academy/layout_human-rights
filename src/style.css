@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 
-.h1 {
+.text-title {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-.h2 {
+.article-title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
