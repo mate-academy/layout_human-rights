@@ -1,0 +1,20 @@
+html {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.declaration__head {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.declaration__inner-head {
+  font-size: 15px;
+  font-weight: 300;
+  margin: 1em 0;
+}
+
+.declaration__link {
+  color: green;
+}
