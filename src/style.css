@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.heading {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link-for-article {
+  color: green;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
