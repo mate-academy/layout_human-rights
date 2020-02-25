@@ -1,0 +1,23 @@
+.body {
+  margin-bottom: 0;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.header1 {
+  font-size: 17px;
+  margin: 0;
+}
+
+.header2 {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.font {
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
