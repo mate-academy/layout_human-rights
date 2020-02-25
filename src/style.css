@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.space {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.human-rights-link {
+  color: green;
+}
