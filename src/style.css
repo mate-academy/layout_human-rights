@@ -1,20 +1,26 @@
+html,
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-.heading-1 {
-  font-size: 17px;
-  font-weight: bold;
+h1,
+h2,
+p {
   margin: 0;
 }
 
-.heading-2 {
+.page-title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.article-title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.heading-2__link {
+.article-title__link {
   color: green;
 }
