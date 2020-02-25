@@ -1,11 +1,7 @@
 .body {
   margin-bottom: 0;
-  font-family: Arial;
-}
-
-.document {
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  margin: 0;
 }
 
 .header1 {
