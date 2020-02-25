@@ -1,0 +1,20 @@
+.document {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main_header {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.full_info_article {
+  color: green;
+}
