@@ -1,24 +1,27 @@
-body {
+
+html {
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  font-family: Arial;
 }
 
-h1 {
-  font-size: 17px;
-  margin: 0;
-}
-
-h2 {
-  font-size: 15px;
-  font-weight: unset;
-  margin-bottom: 1em;
-  margin-top: 1em;
-}
-
+h1,
+h2,
+p,
 ol {
   margin: 0;
 }
 
-a {
+.page-title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.article-title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.read--more {
   color: green;
 }
