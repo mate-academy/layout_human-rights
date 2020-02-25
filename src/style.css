@@ -1,0 +1,22 @@
+.content-body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-header {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.article {
+  font-size: 15px;
+  line-height: 1em;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.link {
+  color: green;
+}
