@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica;
+  font-size: 13px;
+}
+
+.main-h-set {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.h-set {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.a-set {
+  color: green;
+  font-size: 15px;
+  font-weight: normal;
+}
