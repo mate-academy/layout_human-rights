@@ -1,0 +1,18 @@
+.page-stile {
+  font: 13px arial, sans-serif;
+}
+
+.title {
+  font-size: 17px;
+  margin: 0;
+}
+
+.articles {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.href {
+  color: green;
+}
