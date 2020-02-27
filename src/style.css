@@ -1,0 +1,25 @@
+.root {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.main-title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sub-title {
+  font-size: 15px;
+  font-weight: unset;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
