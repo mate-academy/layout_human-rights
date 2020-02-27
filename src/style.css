@@ -3,9 +3,18 @@
   font-size: 13px;
 }
 
+html {
+  margin: 0;
+}
+
+/*body {*/
+/*  margin-top: 0;*/
+/*}*/
+
 h1 {
   font-size: 17px;
   font-weight: bold;
+  margin-top: 5px;
 }
 
 h2 {
@@ -16,8 +25,6 @@ h2 {
 
 .articleLink {
   color: green;
-}
-
-ol {
-  padding-left: 14px;
+  font-size: 15px;
+  font-weight: normal;
 }
