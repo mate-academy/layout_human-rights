@@ -1,23 +1,17 @@
-* {
+
+html {
+  margin: 0;
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-html {
-  margin: 0;
-}
-
-/*body {*/
-/*  margin-top: 0;*/
-/*}*/
-
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
   margin-top: 5px;
 }
 
-h2 {
+.secondaryTitle {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
