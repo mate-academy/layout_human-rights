@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.article-title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.more-articles {
+  color: green;
+}
+
+.article-list {
+  list-style: none;
+}
