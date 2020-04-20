@@ -1,0 +1,29 @@
+body {
+  font: 13px Arial;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.heading {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.subheading {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
