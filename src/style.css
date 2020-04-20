@@ -1,29 +1,25 @@
-* {
-  /* margin-top: 0 auto; */
-}
-
-body {
+html {
   font-family: Arial;
   font-size: 13px;
 }
 
-h1 {
+.mainTitle {
   font-size: 17px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 10px;
 }
 
-h2 {
+.secondaryTitle {
   font-size: 15px;
   font-weight: normal;
   margin: 15px auto;
 }
 
-p {
+.regularText {
   line-height: 1.17;
 }
 
-a {
+.greenishLink {
   color: green;
 }
