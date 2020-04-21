@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.title-main,
+.text {
+  margin: 0;
+}
+
+ol {
+  margin: auto 0;
+}
+
+.title-main {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.title-secondary {
+  margin: 1em 0;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.link {
+  color: green;
+}
