@@ -1,0 +1,23 @@
+*{
+  font-family: Arial;
+  font-size: 13px;
+}
+p{
+  margin:0;
+}
+h1{
+  font-size: 17px;
+  font-weight:bold;
+  margin: 0;
+}
+h2{
+  font-size: 15px;
+  font-weight:normal;
+  margin:1em 0;
+}
+a:link {
+  color: green;
+}
+.link-h2{
+  font-size: 15px;
+}
