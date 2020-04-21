@@ -1,0 +1,25 @@
+* {
+  font-size: 13px;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 0;
+  margin-top: 1em;
+}
+
+p {
+  margin: 0;
+}
+
+.more {
+  color: green;
+}
