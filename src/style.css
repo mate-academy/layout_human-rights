@@ -1,0 +1,25 @@
+html {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em auto;
+}
+
+h1,
+p,
+ol {
+  margin: 0;
+}
+
+a {
+  color: green;
+}
