@@ -8,6 +8,10 @@ p {
   margin: 0;
 }
 
+a {
+  color: green;
+}
+
 .first_heading {
   font-size: 17px;
   font-weight: bold;
@@ -17,8 +21,4 @@ p {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
-}
-
-a {
-  color: green;
 }
