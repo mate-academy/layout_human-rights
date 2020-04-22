@@ -1,4 +1,4 @@
-html {
+body {
   font-family: Arial;
   font-size: 13px;
 }
@@ -13,11 +13,11 @@ html {
 .secondaryTitle {
   font-size: 15px;
   font-weight: normal;
-  margin: 15px auto;
+  margin: 15px 0;
 }
 
 .regularText {
-  line-height: 1.17;
+  margin: 0;
 }
 
 .greenishLink {
