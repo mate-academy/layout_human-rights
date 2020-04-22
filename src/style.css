@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.main-heading {
+  margin: 0;
+
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.secondary-heading {
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.secondary-heading a {
+  color: green;
+}
