@@ -11,14 +11,12 @@ h1 {
 
 h2 {
   font-size: 15px;
-  padding: 1em 0;
+  margin: 1em 0;
   font-weight: normal;
-  margin: 0;
 }
 
 p,
-ol,
-li {
+ol {
   margin: 0;
 }
 
