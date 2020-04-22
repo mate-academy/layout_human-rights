@@ -1,4 +1,4 @@
-.default {
+.default-font {
   font-family: Arial;
   font-size: 13px;
 }
@@ -17,10 +17,8 @@ h2 {
 
 a {
   color: green;
-  margin: 0;
 }
 
 p {
   margin: 0;
-  font-size: 13px;
 }
