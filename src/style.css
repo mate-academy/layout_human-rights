@@ -7,7 +7,6 @@ h1 {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
-
 }
 
 h2 {
@@ -20,10 +19,7 @@ a {
   color: green;
 }
 
-p {
-  margin: 0;
-}
-
+p,
 ol {
   margin: 0;
 }
