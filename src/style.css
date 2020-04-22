@@ -18,11 +18,3 @@ body {
 a {
   color: green;
 }
-
-a:visited {
-  color: green;
-}
-
-a:active {
-  color: green;
-}
