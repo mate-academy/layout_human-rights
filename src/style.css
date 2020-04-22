@@ -1,0 +1,27 @@
+body {
+  font-size: 13px;
+  font-family: Arial;
+}
+
+h1,
+h2,
+p,
+ol {
+  margin: 0 auto;
+}
+
+.heading {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.subheading {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em auto;
+  padding: 0;
+}
+
+.link {
+  color: green;
+}
