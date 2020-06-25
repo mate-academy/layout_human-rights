@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.mainTitle {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.secondaryTitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 15px 0;
+}
+
+.regularText {
+  margin: 0;
+}
+
+.greenishLink {
+  color: green;
+}
