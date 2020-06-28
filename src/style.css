@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: calc(1em + 1px);
+}
+
+a {
+  color: green;
+}
+
+p {
+  margin: calc(1em + 1px)0 0;
+}
