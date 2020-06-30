@@ -5,12 +5,11 @@ body {
 
 h1 {
   font-size: 17px;
-  font-weight: bold;
 }
 
 h2 {
   font-size: 15px;
-  font-weight: normal;
+  font-weight: 400;
   margin: 1em 0;
 }
 
