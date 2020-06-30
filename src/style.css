@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  
+  font-size: 13px;
 }
 
 h1 {
@@ -10,12 +10,10 @@ h1 {
 
 p {
   margin: 0;
-  font-size: 13px;
 }
 
 ol {
   margin: 0;
-  font-size: 13px;
 }
 
 h2 {
