@@ -8,15 +8,15 @@ h1 {
   font-weight: bold;
 }
 
-h1,
-p {
-  margin: 0;
-}
-
 h2 {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
+}
+
+h1,
+p {
+  margin: 0;
 }
 
 a {
