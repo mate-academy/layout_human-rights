@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\Entire_document.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\Entire_document.png",
         "selector": "document",
         "fileName": "Entire_document.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.01",
-          "analysisTime": 130
+          "analysisTime": 135
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\H1_heading.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\H1_heading.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\H1_heading.png",
         "selector": "h1",
         "fileName": "H1_heading.png",
         "label": "H1 heading",
@@ -53,7 +53,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\H2_heading.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\H2_heading.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\H2_heading.png",
         "selector": "h2:first-of-type",
         "fileName": "H2_heading.png",
         "label": "H2 heading",
@@ -77,7 +77,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Paragraph.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\Paragraph.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\Paragraph.png",
         "selector": "p:first-of-type",
         "fileName": "Paragraph.png",
         "label": "Paragraph",
@@ -94,7 +94,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.02",
-          "analysisTime": 69
+          "analysisTime": 64
         }
       },
       "status": "pass"
@@ -102,7 +102,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Ordered_list.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\Ordered_list.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\Ordered_list.png",
         "selector": "ol:first-of-type",
         "fileName": "Ordered_list.png",
         "label": "Ordered list",
@@ -126,7 +126,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Articles_17_to_30_link.png",
-        "test": "..\\bitmaps_test\\20200627-122134\\Articles_17_to_30_link.png",
+        "test": "..\\bitmaps_test\\20200630-124548\\Articles_17_to_30_link.png",
         "selector": "a:first-of-type",
         "fileName": "Articles_17_to_30_link.png",
         "label": "Articles 17 to 30 link",
