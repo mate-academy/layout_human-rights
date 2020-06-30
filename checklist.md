@@ -1,2 +1,3 @@
 - check your work using basic recommendations [here](https://github.com/mate-academy/layout_colored-blocks/blob/master/checklist.md)
 - `h1` already has bold font-weight
+- if you have nested tags, move each one on the separate line
