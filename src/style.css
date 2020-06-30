@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.headling {
+  font-size: 17px;
+  margin: 0;
+}
+
+.preambule,
+.article {
+  margin: 1em 0;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.parag {
+  margin: 0;
+}
+
+.link {
+  color: green;
+  font-size: 15px;
+  font-weight: normal;
+}
