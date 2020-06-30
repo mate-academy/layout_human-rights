@@ -1,23 +1,22 @@
 body {
   font-size: 13px;
-  font-family: "Arial", sans-serif;
+  font-family: Arial, sans-serif;
   padding: 0, auto;
   margin: 0, auto;
 }
 
-h1 {
+.main_header {
   font-size: 17px;
-  font-weight: bold;
   margin-top: 0.4em;
 }
 
-h2 {
+.header {
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
   font-weight: normal;
 }
 
-a {
+.pdf_link {
   color: green;
 }
