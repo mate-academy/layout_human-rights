@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
@@ -6,7 +6,6 @@
 .header {
   margin: 0;
   font-size: 17px;
-  font-weight: bold;
 }
 
 .title {
