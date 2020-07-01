@@ -1,4 +1,3 @@
-html,
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
@@ -17,7 +16,6 @@ p {
 }
 
 .title {
-  font-weight: bold;
   font-size: 17px;
 }
 
