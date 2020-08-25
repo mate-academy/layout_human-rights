@@ -1,9 +1,6 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
-}
-
-.container {
   vertical-align: 1em;
 }
 
@@ -12,7 +9,11 @@ h2 {
   margin: 1em 0;
   font-weight: 400;
 }
-  
+ 
+p {
+  margin: 0;
+}
+
 .article-heading {
   font-size: 17px;
   font-weight: bold;
@@ -26,10 +27,6 @@ h2 {
   margin: 0;
 }
 
-p {
-  margin: 0;
-}
-
-ol {
+.list {
   margin: 0;
 }
