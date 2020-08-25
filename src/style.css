@@ -1,25 +1,25 @@
-h1,
-h2,
-p,
-ol {
+.title-primary,
+.title-secondary,
+.paragraph,
+.list {
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-h1 {
+.title-primary {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.title-secondary {
   font-size: 15px;
   margin: 15px 0;
   font-weight: normal;
 }
 
-a,
-a:visited,
-a:active {
+.document-link,
+.document-link:visited,
+.document-link:active {
   color: green;
 }
