@@ -3,21 +3,21 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.start {
   font-size: 17px;
 }
 
-h2 {
+.article {
   font-size: 15px;
   font-weight: 400;
   margin: 1em 0;
 }
 
-h1 ,
+.start ,
 p {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
