@@ -1,0 +1,28 @@
+* {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.declaration__title,
+.declaration__preamble__title,
+.declaration__article__title,
+p {
+  margin: 0;
+}
+
+.declaration__title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.declaration__preamble__title,
+.declaration__article__title,
+.declaration__link > a {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.declaration__link > a {
+  color: green;
+}
