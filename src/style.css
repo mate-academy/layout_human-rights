@@ -1,11 +1,11 @@
-* {
-  font-family: Arial, serif;
+body {
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  margin: 0;
 }
 
 h1 {
   font-size: 17px;
+  margin: 0;
 }
 
 h2 {
@@ -15,5 +15,6 @@ h2 {
 }
 
 a {
+  font-size: 15px;
   color: green;
 }
