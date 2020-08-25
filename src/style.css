@@ -1,0 +1,48 @@
+html {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.main-header {
+  font-weight: bold;
+  font-size: 17px;
+  margin: 0;
+}
+
+/* h1 {
+  font-weight: bold;
+  font-size: 17px;
+  margin: 0;
+} */
+
+.article-header {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+/* h2 {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+} */
+
+.green-link {
+  color: green;
+}
+
+.green-link:hover {
+  color: green;
+}
+
+/* a {
+  color: green;
+}
+
+a:hover {
+  color: green;
+} */
+
+p {
+  margin: 0;
+}
