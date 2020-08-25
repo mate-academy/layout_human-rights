@@ -1,0 +1,25 @@
+.title-primary,
+.title-secondary,
+.paragraph,
+.list {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title-primary {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.title-secondary {
+  font-size: 15px;
+  margin: 15px 0;
+  font-weight: normal;
+}
+
+.document-link,
+.document-link:visited,
+.document-link:active {
+  color: green;
+}
