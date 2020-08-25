@@ -1,26 +1,26 @@
-.body {
+body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-.h1 {
+.title {
   font-size: 17px;
   font-weight: 700;
   margin: 0;
 }
 
-.h2 {
+.headlines {
   font-size: 15px;
   font-weight: 400;
   margin: 1em 0;
 
 }
 
-.p {
+.paragraph {
   margin: 0;
 
 }
 
-.a {
+.link {
   color: green;
 }
