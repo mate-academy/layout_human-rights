@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.start {
+  font-size: 17px;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.start ,
+p {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
