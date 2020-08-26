@@ -16,6 +16,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
 - Add vertical spacing of `1em` for "Preamble" and "Article N".
 - Put numbered lists into `<ol>`s.
 - After article 16 don’t display any more articles, but put an `h2` heading reading "Articles 17 to 30" instead and make it a `link` pointing to the PDF version of the document. Style the link to always be `green`.
+- Do not nest tags more then neccessary. It will broke tests.
 ---
 
 > The full text is available here:
