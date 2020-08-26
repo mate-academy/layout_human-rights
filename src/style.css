@@ -1,0 +1,25 @@
+body {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainTitle {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.preamble {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.paragraph {
+  margin: 0;
+}
+
+.link {
+  font-size: 15px;
+  color: green;
+}
