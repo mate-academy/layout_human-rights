@@ -3,7 +3,7 @@ body {
   font-family: Arial, serif;
 }
 
-h1 {
+.list {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
@@ -15,7 +15,7 @@ h2 {
   margin: 1em 0;
 }
 
-a {
+.desk {
   color: green;
   font-size: 15px;
   font-weight: normal;
