@@ -3,22 +3,22 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.article {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-h1,
-p {
+.title,
+.paragraph {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
