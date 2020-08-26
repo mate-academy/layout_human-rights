@@ -12,13 +12,13 @@ body {
 .preamble {
   font-weight: normal;
   font-size: 15px;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 .article {
   font-weight: normal;
   font-size: 15px;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 p {
