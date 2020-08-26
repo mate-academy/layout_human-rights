@@ -1,0 +1,29 @@
+* {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+.link,
+.link:visited {
+  color: green;
+}
+
+.document-name,
+.preambule,
+.article-name,
+p {
+  margin: 0;
+}
+
+.document-name {
+  font-size: 17px;
+  font-style: bold;
+}
+
+.preambule,
+.article-name,
+.article-name > .link {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
