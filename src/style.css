@@ -1,0 +1,42 @@
+body {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+  
+}
+
+.main_header {
+  font-size: 17px;
+  font-weight: bold; /*but h1 allready has bold-weight
+  , so we may not add this option*/
+  margin: 0;
+  
+}
+
+.preamble {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0; /*vertical align*/
+  
+  
+}
+
+.article {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0; /*vertical align*/
+  
+  
+}
+
+.paragraph {
+  margin-top: 0;
+
+}
+
+.articles_17to30 {
+  color: green ;
+  font-size: inherit;
+  
+}   
