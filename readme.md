@@ -1,11 +1,11 @@
 # Human rights
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_human-rights/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_human-rights/report/html_report/)
+    - [DEMO LINK](https://germandolia.github.io/layout_human-rights/) <br>
+    - [TEST REPORT LINK](https://germandolia.github.io/layout_human-rights/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 
 ## The task 
-Transform the preamble and the first 16 articles of the following document into 
+Transform  the preamble and the first 16 articles of the following document into 
 a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
 
 - The font of the page must be `Arial`. Set the base font size to `13px`.
