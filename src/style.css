@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.article ,
+.paragraph,
+.title,
+.list {
+  margin: 0;
+}
+
+.article,
+.full {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.article {
+  margin: 1em 0;
+}
+
+.full {
+  color: green;
+}
