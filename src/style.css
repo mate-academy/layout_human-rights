@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.heading {
+  margin: 0;
+  font-size: 17px;
+}
+
+.paragraph {
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.list {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
