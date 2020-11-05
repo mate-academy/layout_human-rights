@@ -5,27 +5,22 @@ body {
 
 .title {
   font-size: 17px;
-  /* font-weight: bold; */
 }
 
 .article {
   font-size: 15px;
   font-weight: normal;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding: 1em 0;
 }
 
 .link {
   color: green;
 }
 
-ol {
-  margin: 0;
-}
-
 .title,
 .article,
 .paragraph,
-.link {
+.link,
+.list {
   margin: 0;
 }
