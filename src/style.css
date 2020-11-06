@@ -3,23 +3,20 @@ body {
   font-size: 13px;
 }
 
+.paragraph,
+.list,
 .heading {
   margin: 0;
-  font-size: 17px;
 }
 
-.paragraph {
-  margin: 0;
+.heading {
+  font-size: 17px;
 }
 
 .subtitle {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
-}
-
-.list {
-  margin: 0;
 }
 
 .link {
