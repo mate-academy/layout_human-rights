@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.heading,
+.par,
+.list {
+  margin: 0;
+}
+
+.heading {
+  font-size: 17px;
+}
+
+.subHead {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+.green {
+  color: green;
+}
