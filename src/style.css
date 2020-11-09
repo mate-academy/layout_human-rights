@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.title,
+h2,
+p {
+  margin: 0;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.link {
+  color: green;
+}
