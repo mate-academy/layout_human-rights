@@ -3,13 +3,13 @@ body {
   font-size: 13px;
 }
 
-h1,
+.title,
 h2,
 p {
   margin: 0;
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
 }
@@ -21,6 +21,6 @@ h2 {
   margin-bottom: 1em;
 }
 
-a {
+.link {
   color: green;
 }
