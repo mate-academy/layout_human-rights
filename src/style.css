@@ -6,6 +6,7 @@ body {
 .first {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
 .second {
