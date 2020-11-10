@@ -9,21 +9,17 @@ body {
   margin: 0;
 }
 
-h2 {
+.Subtitle {
   font-size: 15px;
   font-weight: normal;
   padding: 1em 0;
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
 
-p {
-  margin: 0;
-}
-
-ol {
+.content {
   margin: 0;
 }
