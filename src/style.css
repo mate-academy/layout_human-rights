@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.main-text {
+  font-style: bold;
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.secondary-text {
+  font-weight: inherit;
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.no-vertical-spaces {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.styled-reference {
+  color: green;
+}
