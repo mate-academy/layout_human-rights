@@ -1,0 +1,22 @@
+.body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.main-heading {
+  font-size: 17px;
+}
+
+.article-heading {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+}
+
+.colored-link {
+  color: green;
+}
+
+.margin-reset {
+  margin: 0;
+}
