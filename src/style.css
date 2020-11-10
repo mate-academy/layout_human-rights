@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title_main,
+.paragraph,
+.list {
+  margin: 0;
+}
+
+.title_main {
+  font-size: 17px;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.green_link {
+  color: green;
+}
