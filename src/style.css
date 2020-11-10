@@ -3,25 +3,25 @@ body {
   font-size: 13px;
 }
 
-.main {
+.main-text {
   font-style: bold;
   font-size: 17px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.article {
+.secondary-text {
   font-weight: inherit;
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-.text {
+.no-vertical-spaces {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.reference {
+.styled-reference {
   color: green;
 }
