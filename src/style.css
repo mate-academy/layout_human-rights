@@ -3,17 +3,13 @@ body {
   font-size: 13px;
 }
 
-.primary,
-.secondary {
+.primary-text {
+  font-size: 17px;
+  font-weight: bold;
   margin: 0;
 }
 
-.primary {
-  font-size: 17px;
-  font-weight: bold;
-}
-
-.secondary {
+.secondary-text {
   font-size: 15px;
   margin: 1em 0;
   font-weight: normal;
@@ -23,6 +19,6 @@ ol {
   margin: 0;
 }
 
-.link {
+.styled-link {
   color: green;
 }
