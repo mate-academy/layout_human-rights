@@ -9,16 +9,16 @@ body {
   margin: 0;
 }
 
-.articles {
+.secondary-text {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.paragraphs {
+.no-spaces {
   margin: 0;
 }
 
-.links {
+.styled-link {
   color: green;
 }
