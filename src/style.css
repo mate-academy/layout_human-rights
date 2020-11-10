@@ -1,27 +1,27 @@
-html {
+body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-.bigH {
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.big-header {
   font-style: bold;
   font-size: 17px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.secondaryH {
+.secondary-header {
   font-weight: inherit;
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-.paragraph {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.greenLink {
+.green-link {
   color: green;
 }
