@@ -3,25 +3,25 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.heading {
   font-size: 15px;
   font-weight: normal;
   padding-top: 1em;
   padding-bottom: 1em;
 }
 
-h1,
-h2,
-p,
-ol {
+.title,
+.heading,
+.paragr,
+.list {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
