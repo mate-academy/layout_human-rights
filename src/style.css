@@ -3,25 +3,25 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.main {
   font-style: bold;
   font-size: 17px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-h2 {
+.article {
   font-weight: inherit;
   font-size: 15px;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-p {
+.text {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-a {
+.reference {
   color: green;
 }
