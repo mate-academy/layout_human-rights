@@ -3,22 +3,20 @@
   font-size: 13px;
 }
 
-.h1 {
+.main-heading {
   font-size: 17px;
 }
 
-.h2 {
+.article-heading {
   font-size: 15px;
   font-weight: normal;
   padding: 1em 0;
 }
 
-.link {
+.colored-link {
   color: green;
 }
 
-.heading,
-.paragraph,
-.list {
+.margin-reset {
   margin: 0;
 }
