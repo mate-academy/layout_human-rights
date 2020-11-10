@@ -8,22 +8,22 @@ h1 {
   margin: 0;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.article {
   font-size: 15px;
   font-weight: normal;
 
   margin: 1em 0;
 }
 
-a {
+.link {
   color: green;
 }
 
-div {
+.container {
   vertical-align: 1em;
 }
