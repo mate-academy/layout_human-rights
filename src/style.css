@@ -1,0 +1,26 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.heading {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+}
+
+.title,
+.heading,
+.paragr,
+.list {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
