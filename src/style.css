@@ -3,13 +3,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.header1 {
   margin: 0;
   font-size: 17px;
   font-weight: bold;
 }
 
-h2 {
+.header2 {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
