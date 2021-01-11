@@ -5,22 +5,22 @@ body {
   
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.second_title {
   margin: 1em 0;
   font-size: 15px;
   font-weight: normal;
 }
 
-a {
+.link {
   color: green;
 }
 
-a:visited {
+.link:visited {
   color: green;
 }
