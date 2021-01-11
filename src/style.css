@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.doc__heading {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.doc__article {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.doc__link {
+  font-size: 15px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: green;
+}
