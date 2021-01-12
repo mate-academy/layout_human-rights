@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+p,
+h1,
+h2 {
+  margin: 0;
+}
+
+a:link ,
+a:visited,
+a:active,
+a:hover {
+  color: green;
+}
+
+.mainarticle {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.article,
+.link {
+  font-size: 15px;
+  font-weight: 400;
+  
+}
+
+.paragraph,
+.link,
+.article {
+  margin: 1em 0 ;
+}
