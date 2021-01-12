@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bolt;
+}
+
+.article,
+.site {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.title,
+.article,
+p {
+  margin: 0;
+}
+
+.site {
+  color: green;
+}
+
+.article {
+  margin: 1em 0;
+}
