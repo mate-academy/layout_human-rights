@@ -9,7 +9,7 @@ body {
 }
 
 .article,
-a {
+.link {
   font-size: 15px;
   font-weight: normal;
 }
@@ -24,6 +24,6 @@ p {
   margin: 1em 0;
 }
 
-a {
+.link {
   color: green;
 }
