@@ -1,6 +1,6 @@
 # Human rights
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://vitaliiskr.github.io/layout_human-rights/) <br>
+    - [DEMO LINK](https://vitaliiskr.github.io/layout_human-rights/)
     - [TEST REPORT LINK](https://vitaliiskr.github.io/layout_human-rights/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 
