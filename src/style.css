@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.article {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 1em 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.green {
+  margin: 0;
+  color: green;
+}
+
+p {
+  display: block;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+  font-size: 15px;
+}
+
+.link:visited {
+  color: green;
+  font-size: 15px;
+}
