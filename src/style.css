@@ -3,14 +3,14 @@ body {
   font-size: 13px;
 }
 
-h1 {
+h1.zaholovok {
   font-weight: bold;
   font-size: 17px;
   margin: 0;
   padding: 0;
 }
 
-h2 {
+h2.article {
   font-size: 15px;
   font-weight: normal;
   margin: 0;
@@ -18,14 +18,14 @@ h2 {
   margin-top: 1em;
 }
 
-a {
+a.link {
   color: green;
 }
 
-a:visited {
+a.link:visited {
   color: green;
 }
 
-p {
+p.text {
   margin: 0;
 }
