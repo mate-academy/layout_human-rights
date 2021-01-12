@@ -4,14 +4,14 @@ body {
 
 }
 
-h1 {
+.main-heading {
   font-size: 17px;
   margin: 1em, 0;
   font-weight: bold;
 
 }
 
-h2 {
+.heading {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
@@ -23,7 +23,7 @@ h1 {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
   font-size: 15px;
 
