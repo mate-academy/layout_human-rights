@@ -9,18 +9,6 @@ h2 {
   margin: 0;
 }
 
-a:link ,
-a:visited,
-a:active,
-a:hover {
-  color: green;
-}
-
-.mainarticle {
-  font-size: 17px;
-  font-weight: bold;
-}
-
 .article,
 .link {
   font-size: 15px;
@@ -28,8 +16,19 @@ a:hover {
   
 }
 
+.link:link ,
+.link:visited,
+.link:active,
+.link:hover {
+  color: green;
+}
+
+.main-article {
+  font-size: 17px;
+  font-weight: bold;
+}
+
 .paragraph,
-.link,
 .article {
   margin: 1em 0 ;
 }
