@@ -3,24 +3,23 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.titleH1 {
   font-size: 17px;
   font-weight: bold;
   margin-top: 0;
 }
 
-h2 {
+.titleH2 {
   font-size: 15px;
   font-weight: normal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
-a {
+.url {
   color: green;
   
 }
 
-a:hover {
+.url:hover {
   color: green;
 }
