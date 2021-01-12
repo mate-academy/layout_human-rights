@@ -1,22 +1,30 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  margin: 0;
 }
 
 h1 {
-  font-size: 17px bold;
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
 }
 
 h2 {
   font-size: 15px;
-  vertical-align: 1em;
+  font-weight: normal;
+  margin: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
-.verticalSpacing {
-  padding: 1em 0;
+p {
+  margin: 0;
 }
 
 a {
   color: green;
+}
+
+ol {
+  margin: 0;
 }
