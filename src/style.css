@@ -6,16 +6,19 @@ body {
 .title {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
 .article {
-  font-size: 15px;
-  font-weight: 400;
   margin: 1em 0;
 }
 
 .link {
+  color: green;
+}
+
+.article,
+.link {
   font-size: 15px;
   font-weight: 400;
-  color: green;
 }
