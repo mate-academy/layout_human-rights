@@ -3,7 +3,7 @@ body {
   font-size: 13px;
 }
 
-.h1 {
+.main_header {
   margin: 0;
   font-size: 17px;
   font-weight: bold;
@@ -11,16 +11,16 @@ body {
 
 ol,
 p,
-.h2 {
+.statement {
   margin: 0;
 }
 
-.h2 {
+.statement {
   line-height: 3.15em;
   font-size: 15px;
   font-weight: normal;
 }
 
-.link {
+.other-part {
   color: green;
 }
