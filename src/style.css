@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.main_header {
+  margin: 0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+ol,
+p,
+.statement {
+  margin: 0;
+}
+
+.statement {
+  line-height: 3.15em;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.other-part {
+  color: green;
+}
