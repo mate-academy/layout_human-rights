@@ -9,9 +9,7 @@ body {
   margin: 0;
 }
 
-.articl {
-  font-size: 15px;
-  font-weight: normal;
+.article {
   margin: 1em 0;
 }
 
@@ -19,8 +17,12 @@ p {
   margin: 0;
 }
 
-a {
+.links {
   color: green;
+}
+
+.article,
+.links {
   font-size: 15px;
   font-weight: normal;
 }
