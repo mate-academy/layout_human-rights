@@ -7,7 +7,6 @@ h1 {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
-  /* line-height: 1em; */
 }
 
 h2 {
@@ -15,14 +14,6 @@ h2 {
   font-weight: normal;
   margin: 1em 0;
 }
-/*
-p {
-  margin: 0;
-}
-
-li {
-  margin: 0;
-} */
 
 a {
   color: green;
