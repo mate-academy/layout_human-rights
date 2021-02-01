@@ -1,4 +1,4 @@
-body {
+html {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
@@ -6,7 +6,6 @@ body {
 h1 {
   font-size: 17px;
   font-weight: bold;
-  counter-increment: h1;
   margin: 7px 0;
 }
 
