@@ -1,15 +1,21 @@
-html {
+body {
   font-size: 13px;
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
 }
 
 h1 {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
 h2 {
-  font-weight: non-bold;
+  font-weight: 400;
   font-size: 15px;
   padding: 1em 0;
+}
+
+a {
+  color: green;
 }
