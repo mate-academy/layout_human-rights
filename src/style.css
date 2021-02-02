@@ -1,0 +1,21 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.heading {
+  margin: 0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.articles,
+.preamble {
+  margin: 1em 0;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.link {
+  color: green;
+}
