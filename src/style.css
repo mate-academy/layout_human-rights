@@ -1,0 +1,20 @@
+html {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: auto;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: lighter;
+  margin: 1em 0;
+}
+
+a {
+  color: green;
+}
