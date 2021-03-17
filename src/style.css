@@ -1,5 +1,5 @@
 html {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
   
@@ -14,7 +14,11 @@ h2 {
   font-weight: normal;
   margin: 1em 0;
 }
+
+p {
+  margin: 0;
+}
   
-a {
+.link {
   color: green;
 }
