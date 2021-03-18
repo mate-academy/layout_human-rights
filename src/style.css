@@ -6,7 +6,6 @@ html {
 h1 {
   font-size: 17px;
   font-weight: bold;
-  margin: 0;
 }
   
 h2 {
@@ -15,6 +14,7 @@ h2 {
   margin: 1em 0;
 }
 
+h1,
 p {
   margin: 0;
 }
