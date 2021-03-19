@@ -3,22 +3,22 @@ body {
   font-size: 13px;
 }
 
-.mainheader {
+h1 {
   font-size: 17px;
   font-weight: bold;
-  margin: 0;
 }
 
-.articleheader {
+h2 {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.link {
+a {
   color: green;
 }
 
-.paragraph {
+h1,
+p {
   margin: 0;
 }
