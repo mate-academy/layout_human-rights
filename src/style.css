@@ -8,14 +8,9 @@ h1 {
   font-weight: bold;
 }
 
-.non-bold {
-  font-weight: normal;
-}
-
 h2 {
   font-size: 15px;
   padding: 1em 0;
-  margin: 0;
   font-weight: normal;
 }
 
@@ -31,6 +26,6 @@ a:visited {
   color: green;
 }
 
-.blindZone {
+.blind_zone {
   display: none;
 }
