@@ -1,0 +1,26 @@
+body {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: lighter;
+  padding: 1em 0;
+}
+
+p,
+h1,
+h2,
+ol {
+  margin: 0;
+}
+
+a {
+  color: green;
+}
