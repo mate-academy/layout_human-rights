@@ -3,25 +3,24 @@ body {
   font-size: 13px;
 }
 
-.page-title {
+.title,
+.link,
+.subtitle p {
   margin: 0;
+}
+
+.title {
   font-size: 17px;
   font-weight: bold;
 }
 
-.paragraph-title,
-.rest-document {
-  margin: 0;
+.subtitle,
+.link {
   font-size: 15px;
   font-weight: normal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
-.paragraph-title p {
-  margin: 0;
-}
-
-.rest-document {
+.link {
   color: green;
 }
