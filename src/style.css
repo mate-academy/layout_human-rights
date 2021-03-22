@@ -6,22 +6,19 @@ body {
 .heading1 {
   font-size: 17px;
   font-weight: bold;
+  margin: 0;
 }
 
 .heading2 {
   font-size: 15px;
   font-weight: normal;
-}
-
-h1,
-p {
-  margin: 0;
-}
-
-h2 {
   margin: 1em 0;
 }
 
-a {
+.no-margin {
+  margin: 0;
+}
+
+.green {
   color: green;
 }
