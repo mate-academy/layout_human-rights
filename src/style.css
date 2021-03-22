@@ -13,11 +13,10 @@ h2 {
   margin: 1em 0;
 }
 
-h1,
-p {
+.zero-margin {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
