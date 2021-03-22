@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  margin: 0 auto;
+}
+
+.artTitle {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.paragraph {
+  margin: 0 auto;
+}
+
+.link {
+  font-size: 15px;
+  color: green;
+  font-weight: normal;
+  margin: 1em 0;
+}
