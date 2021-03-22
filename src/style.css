@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 17px;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: 400;
+  padding: 1em 0;
+}
+
+.link {
+  color: green;
+}
+
+h1,
+h2,
+.paragraph,
+ol,
+a {
+  margin: 0;
+}
