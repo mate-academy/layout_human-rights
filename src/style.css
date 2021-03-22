@@ -12,6 +12,7 @@ h2 {
 h1 {
   font-weight: bold;
   font-size: 17px;
+  font-style: unset;
 }
 
 h2 {
@@ -20,6 +21,6 @@ h2 {
   margin: 1em 0;
 }
 
-#more {
+a {
   color: green;
 }
