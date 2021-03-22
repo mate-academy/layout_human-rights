@@ -1,5 +1,5 @@
 # Human rights
-1. Replace `<your_account>` with your Github username in the links
+1. Replace `Vladyslav-Kondiievskyi` with your Github username in the links
     - [DEMO LINK](https://Vladyslav-Kondiievskyi.github.io/layout_human-rights/) 
     - [TEST REPORT LINK](https://Vladyslav-Kondiievskyi.github.io/layout_human-rights/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
