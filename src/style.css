@@ -3,19 +3,19 @@ body {
   font-size: 13px;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   font-weight: bold;
   margin: 0;
 }
 
-h2 {
+.subtitle {
   font-size: 15px;
   font-weight: normal;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-a {
+.linc {
   color: green;
 }
