@@ -3,23 +3,23 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+.title {
   font-size: 17px bold;
 }
 
-h2 {
+.articles {
   font-size: 15px;
   font-weight: lighter;
   padding: 1em 0;
 }
 
-h1,
-h2,
-ol,
-p {
+.title,
+.articles,
+.list,
+.par {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
