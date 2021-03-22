@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title,
+.link,
+.subtitle p {
+  margin: 0;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.subtitle,
+.link {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.link {
+  color: green;
+}
