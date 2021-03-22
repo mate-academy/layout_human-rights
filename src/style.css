@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.heading1 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.heading2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.green {
+  color: green;
+}
