@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+}
+
+.link {
+  color: green;
+}
+
+.title,
+.link,
+.subtitle,
+.text,
+.list,
+.list__elem {
+  margin: 0;
+}
