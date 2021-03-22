@@ -9,16 +9,15 @@ body {
 
 .heading {
   font-size: 17px;
-  font-weight: bold;
   margin: 0;
 }
 
-.style-article {
+.subtitle {
   margin: 1em 0;
   font-size: 15px;
   font-weight: normal;
 }
 
-.style-link {
+.link {
   color: green;
 }
