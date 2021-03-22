@@ -3,24 +3,24 @@ body {
   font-size: 13px;
 }
 
-.ba-title {
+.title {
   font-size: 17px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
 }
 
-.ba-ArtTitle {
+.artTitle {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-.ba-par {
-  margin-top: 0;
-  margin-bottom: 0;
+.paragraph {
+  margin: 0 auto;
 }
 
-.ba-link {
+.link {
   font-size: 15px;
   color: green;
+  font-weight: normal;
+  margin: 1em 0;
 }
