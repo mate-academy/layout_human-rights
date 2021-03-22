@@ -1,0 +1,25 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 17px bold;
+}
+
+.articles {
+  font-size: 15px;
+  font-weight: normal;
+  padding: 1em 0;
+}
+
+.title,
+.articles,
+.list,
+.par {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
