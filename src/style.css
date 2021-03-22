@@ -12,12 +12,12 @@ body {
 
 .subtitle {
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: normal;
   margin: 1em 0;
 }
 
 .link {
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: normal;
   color: green;
 }
