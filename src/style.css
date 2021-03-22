@@ -3,21 +3,24 @@ html {
   font-size: 13px;
 }
 
-h1 {
+.heading {
   font-size: 17px;
   margin: 0;
 }
 
-h2 {
+.preamble-heading,
+.article-heading,
+.link-heading {
   font-size: 15px;
   font-weight: normal;
   margin: 1em auto;
 }
 
-p {
+.preamble-paragraph,
+.article-paragraph {
   margin: 0;
 }
 
-a {
+.link {
   color: green;
 }
