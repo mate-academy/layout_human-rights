@@ -3,12 +3,6 @@ body {
   font-size: 13px;
 }
 
-p,
- 
-h1 {
-  margin: 0;
-}
-
 h1 {
   font-size: 17px;
   font-weight: bold;
@@ -17,9 +11,16 @@ h1 {
 h2 {
   font-size: 15px;
   font-weight: normal;
-  margin: 1em 0;
 }
 
 a {
   color: green;
+}
+
+.withMargin {
+  margin: 1em 0;
+}
+
+.withoutMargin {
+  margin: 0;
 }
