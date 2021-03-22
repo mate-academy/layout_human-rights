@@ -1,11 +1,13 @@
 # Human rights
+
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_human-rights/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_human-rights/report/html_report/)
+   - [DEMO LINK](https://vadym-liubych.github.io/layout_human-rights/) <br>
+   - [TEST REPORT LINK](https://vadym-liubych.github.io/layout_human-rights/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 
-## The task 
-Transform the preamble and the first 16 articles of the following document into 
+## The task
+
+Transform the preamble and the first 16 articles of the following document into
 a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
 
 - The font of the page must be `Arial`. Set the base font size to `13px`.
@@ -17,9 +19,11 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
 - Put numbered lists into `<ol>`s.
 - After article 16 don’t display any more articles, but put an `h2` heading reading "Articles 17 to 30" instead and make it a `link` pointing to the PDF version of the document. Style the link to always be `green`.
 - Do not nest tags more then neccessary. It will broke tests.
+
 ---
 
 > The full text is available here:
+
 <details>
     <summary>Show</summary>
 
@@ -51,7 +55,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     The General Assembly,
     Proclaims this Universal Declaration of Human Rights as a common standard of
     achievement for all peoples and all nations, to the end that every individual and
-    every organ of society, keeping this Declaration constantly in mind, shall strive by 
+    every organ of society, keeping this Declaration constantly in mind, shall strive by
     teaching and education to promote respect for these rights and freedoms and by
     progressive measures, national and international, to secure their universal and
     effective recognition and observance, both among the peoples of Member States
@@ -75,7 +79,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     prohibited in all their forms.
     Article 5
     No one shall be subjected to torture or to cruel, inhuman or degrading treatment
-    or punishment. 
+    or punishment.
     Article 6
     Everyone has the right to recognition everywhere as a person before the law.
     Article 7
@@ -98,7 +102,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     has had all the guarantees necessary for his defence.
     2. No one shall be held guilty of any penal offence on account of any act or
     omission which did not constitute a penal offence, under national or
-    international law, at the time when it was committed. Nor shall a heavier 
+    international law, at the time when it was committed. Nor shall a heavier
     penalty be imposed than the one that was applicable at the time the penal
     offence was committed.
     Article 12
@@ -120,7 +124,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     1. Everyone has the right to a nationality.
     2. No one shall be arbitrarily deprived of his nationality nor denied the right to
     change his nationality.
-    Article 16 
+    Article 16
     1. Men and women of full age, without any limitation due to race, nationality
     or religion, have the right to marry and to found a family. They are entitled
     to equal rights as to marriage, during marriage and at its dissolution.
@@ -144,7 +148,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     Article 20
     1. Everyone has the right to freedom of peaceful assembly and association.
     2. No one may be compelled to belong to an association.
-    Article 21 
+    Article 21
     1. Everyone has the right to take part in the government of his country,
     directly or through freely chosen representatives.
     2. Everyone has the right to equal access to public service in his country.
@@ -170,7 +174,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     his interests.
     Article 24
     Everyone has the right to rest and leisure, including reasonable limitation of
-    working hours and periodic holidays with pay. 
+    working hours and periodic holidays with pay.
     Article 25
     1. Everyone has the right to a standard of living adequate for the health and
     well-being of himself and of his family, including food, clothing, housing
@@ -196,7 +200,7 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     Article 27
     1. Everyone has the right freely to participate in the cultural life of the
     community, to enjoy the arts and to share in scientific advancement and
-    its benefits. 
+    its benefits.
     2. Everyone has the right to the protection of the moral and material interests
     resulting from any scientific, literary or artistic production of which he is the
     author.
@@ -217,4 +221,5 @@ a web page: https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
     Nothing in this Declaration may be interpreted as implying for any State, group or
     person any right to engage in any activity or to perform any act aimed at the
     destruction of any of the rights and freedoms set forth herein.
+
 </details>

@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.title {
+  font-size: 17px;
+}
+
+.article__title {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.article__link {
+  color: green;
+}
