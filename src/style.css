@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.main_title {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.title_2 {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.m0 {
+  margin: 0;
+}
+
+.link {
+  color: green;
+}
