@@ -1,22 +1,27 @@
-body * {
-  margin: 0;
+body {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-h1 {
+.page-title {
+  margin: 0;
   font-size: 17px;
   font-weight: bold;
 }
 
-h2,
-a {
+.paragraph-title,
+.rest-document {
+  margin: 0;
   font-size: 15px;
   font-weight: normal;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-a {
+.paragraph-title p {
+  margin: 0;
+}
+
+.rest-document {
   color: green;
 }
