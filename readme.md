@@ -1,6 +1,6 @@
 # Human rights
-Replace `<your_account>` with your Github username and copy the links to Pull Request description:
-- [DEMO LINK](https://<your_account>.github.io/layout_human-rights/)
+Replace `stas-dukach` with your Github username and copy the links to Pull Request description:
+- [DEMO LINK](https://stas-dukach.github.io/layout_human-rights/)
 - [TEST REPORT LINK](https://<your_account>.github.io/layout_human-rights/report/html_report/)
 
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
