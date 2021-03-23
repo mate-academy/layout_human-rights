@@ -8,7 +8,7 @@ body {
   margin: 0 auto;
 }
 
-.artTitle {
+.second_title {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
@@ -19,8 +19,8 @@ body {
 }
 
 .link {
-  font-size: 15px;
+  /* font-size: 15px; */
   color: green;
-  font-weight: normal;
-  margin: 1em 0;
+  /* font-weight: normal;
+  margin: 1em 0; */
 }
