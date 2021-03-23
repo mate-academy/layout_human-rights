@@ -1,27 +1,27 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
-  /* margin: 0; */
 }
 
-h1 {
+.title {
   font-size: 17px;
   font-weight: bold;
 }
 
-p,
-h2,
-h1 {
+.paragraph,
+.title,
+.subtitle,
+.link {
   margin: 0;
 }
 
-h2,
-a {
+.subtitle,
+.link {
   font-size: 15px;
   font-weight: normal;
   margin: 1em 0;
 }
 
-a {
+.link {
   color: green;
 }
