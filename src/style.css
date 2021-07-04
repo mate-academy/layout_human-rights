@@ -1,0 +1,20 @@
+body {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+.main-head {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.sub-head {
+  font-size: 15px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.green-link {
+  color: green;
+}
